@@ -1,4 +1,5 @@
 {
+  "name" : "DefaultClientCapabilities", 
   "capabilities": [{
     "freqBand": "2.4G",
     "maxMcs": 7,
@@ -24,5 +25,5 @@
     "maxChWidth": 1,
     "phyMode": 7
   }],
-  "version": 1.0
+  "version": "1.0"
 }

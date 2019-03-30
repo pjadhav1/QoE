@@ -1,4 +1,5 @@
 {
+  "name": "ClientDeviceSnrToRateTableEntries", 
   "snrToRateEntries": [{
     "phyMode": 8,
     "snr": 29.0,
@@ -260,5 +261,5 @@
     "snr": 5.0,
     "rate": 2.0
   }],
-  "version": 1.0
+  "version": "1.0"
 }

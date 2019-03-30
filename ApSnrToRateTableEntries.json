@@ -1,4 +1,5 @@
 {
+        "name": "APSnrToRateTableEntries", 
 	"apSnrToRateTableEntries": [{
 		"model": "PP203X",
 		"freqBand": "5GL",
@@ -936,5 +937,5 @@
 		"snr": 21.3,
 		"rate": 24.69375
 	}],
-	"version": 1.0
+	"version": "1.0"
 }

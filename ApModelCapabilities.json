@@ -1,4 +1,5 @@
 {
+  "name": "ApModelCapabilities",
   "capabilities": [{
     "model": "CGM4140COM",
     "freqBand": "5G",
@@ -182,5 +183,5 @@
     "maxChWidth": 2,
     "phyMode": 9
   }],
-  "version" : 1.0
+  "version" : "1.0"
 }
