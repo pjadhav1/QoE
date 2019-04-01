@@ -1,5 +1,5 @@
 {
-  "name": "scoreModel",
+  "name": "ScoreModel",
   "version": "1.0",
   "scoringRules": [{
     "scoreLabel": 1,

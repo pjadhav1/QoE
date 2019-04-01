@@ -1,5 +1,5 @@
  {
- 	"name": "categoryBasedThroughputContainer",
+ 	"name": "CategoryBasedThroughputContainer",
  	"version": "1.0",
  	"categoryBasedThroughputEntries": [{
  		"throughputClass": "iot",
