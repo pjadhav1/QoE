@@ -1,0 +1,40 @@
+ {
+ 	"name": "categoryBasedThroughputContainer",
+ 	"version": "1.0",
+ 	"categoryBasedThroughputEntries": [{
+ 		"throughputClass": "iot",
+ 		"subCategories": ["voice assistant", "thermostat-nest", "appliance or wearable", "wifi speaker", "speaker", "watch", "hub-philips", "speaker-echo", "computer accessory", "thermostat", "iot"],
+ 		"idleThroughputNeed": 1.0,
+ 		"activeThroughputNeed": 3.0
+ 	}, {
+ 		"throughputClass": "powerpod",
+ 		"subCategories": ["pp302z"],
+ 		"idleThroughputNeed": 150.0,
+ 		"activeThroughputNeed": 450.0
+ 	}, {
+ 		"throughputClass": "pod",
+ 		"subCategories": ["plume pod v1.0"],
+ 		"idleThroughputNeed": 50.0,
+ 		"activeThroughputNeed": 150.0
+ 	}, {
+ 		"throughputClass": "highEndDevices",
+ 		"subCategories": ["laptop computer", "desktop", "mobile phone", "router", "smartphone-android", "laptop-macbook", "mobile", "tablet", "desktop computer"],
+ 		"idleThroughputNeed": 15.0,
+ 		"activeThroughputNeed": 45.0
+ 	}, {
+ 		"throughputClass": "midRangeDevices",
+ 		"subCategories": ["gaming system", "tv", "media player", "gamingconsole", "tv or home theater", "storage", "set top box", "mediasettopbox"],
+ 		"idleThroughputNeed": 7.5,
+ 		"activeThroughputNeed": 22.5
+ 	}, {
+ 		"throughputClass": "superpod",
+ 		"subCategories": ["pp203x"],
+ 		"idleThroughputNeed": 200.0,
+ 		"activeThroughputNeed": 600.0
+ 	}, {
+ 		"throughputClass": "cams",
+ 		"subCategories": ["voip gateway", "doorbell-ring", "camera-canary", "cameras & camcorders", "camera-nest", "camera"],
+ 		"idleThroughputNeed": 5.0,
+ 		"activeThroughputNeed": 15.0
+ 	}]
+ }
