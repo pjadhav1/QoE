@@ -1,0 +1,12 @@
+{
+	"endpoint": "/realtimeinsights/models",
+	"method": "POST",
+	"payload": {
+		"name": "$MODEL_NAME",
+		"version": "$MODEL_VERSION",
+		"s3": {
+			"bucket": "$BUCKET",
+			"key": "/type=adaptiveWifiModels/environment=$ENVIRONMENT/deployment=$DEPLOYMENT/model=$MODEL_NAME/version=$MODEL_VERSION/$FILENAME.json"
+		}
+	}
+}
