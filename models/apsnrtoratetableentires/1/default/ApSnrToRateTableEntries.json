@@ -1,5 +1,5 @@
 {
-        "name": "ApSnrToRateTableEntries", 
+        "name": "ApSnrToRateTableEntries",
 	"apSnrToRateTableEntries": [{
 		"model": "PP203X",
 		"freqBand": "5GL",
@@ -679,13 +679,13 @@
 		"snr": 21.3,
 		"rate": 8.85
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "2.4G",
 		"channel": 0,
 		"snr": 26.0,
 		"rate": 43.5
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "2.4G",
 		"channel": 0,
 		"snr": 8.0,
@@ -703,120 +703,240 @@
 		"snr": 2.0,
 		"rate": 3.0
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "2.4G",
 		"channel": 0,
 		"snr": 13.0,
 		"rate": 17.5
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "2.4G",
 		"channel": 0,
 		"snr": 16.0,
 		"rate": 23.0
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "2.4G",
 		"channel": 0,
 		"snr": 28.0,
 		"rate": 48.5
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "2.4G",
 		"channel": 0,
 		"snr": 1.0,
 		"rate": 0.5
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "2.4G",
 		"channel": 0,
 		"snr": 18.0,
 		"rate": 27.0
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "2.4G",
 		"channel": 0,
 		"snr": 12.0,
 		"rate": 11.5
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "2.4G",
 		"channel": 0,
 		"snr": 24.0,
 		"rate": 40.0
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "2.4G",
 		"channel": 0,
 		"snr": 6.0,
 		"rate": 5.5
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "5G",
 		"channel": 0,
 		"snr": 26.0,
 		"rate": 51.25
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "5G",
 		"channel": 0,
 		"snr": 8.0,
 		"rate": 12.4
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "5G",
 		"channel": 0,
 		"snr": 20.0,
 		"rate": 34.75
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "5G",
 		"channel": 0,
 		"snr": 22.0,
 		"rate": 43.0
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "5G",
 		"channel": 0,
 		"snr": 13.0,
 		"rate": 18.0
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "5G",
 		"channel": 0,
 		"snr": 16.0,
 		"rate": 23.0
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "5G",
 		"channel": 0,
 		"snr": 28.0,
 		"rate": 58.75
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "5G",
 		"channel": 0,
 		"snr": 18.0,
 		"rate": 34.75
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "5G",
 		"channel": 0,
 		"snr": 12.0,
 		"rate": 18.0
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "5G",
 		"channel": 0,
 		"snr": 24.0,
 		"rate": 47.5
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "5G",
 		"channel": 0,
 		"snr": 6.0,
 		"rate": 5.6
 	}, {
+    "model": "defaultAp",
+    "freqBand": "5GL",
+    "channel": 0,
+    "snr": 68.0,
+    "rate": 193.75
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GL",
+    "channel": 0,
+    "snr": 46.1,
+    "rate": 63.43125
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GL",
+    "channel": 0,
+    "snr": 57.9,
+    "rate": 100.0
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GL",
+    "channel": 0,
+    "snr": 37.9,
+    "rate": 68.74375
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GL",
+    "channel": 0,
+    "snr": 30.6,
+    "rate": 49.61875
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GL",
+    "channel": 0,
+    "snr": 88.0,
+    "rate": 162.5
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GL",
+    "channel": 0,
+    "snr": 78.0,
+    "rate": 207.0
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GL",
+    "channel": 0,
+    "snr": 9.0,
+    "rate": 9.775
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GL",
+    "channel": 0,
+    "snr": 2.3,
+    "rate": 0.53125
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GL",
+    "channel": 0,
+    "snr": 21.3,
+    "rate": 30.06875
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GU",
+    "channel": 0,
+    "snr": 68.0,
+    "rate": 300.75
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GU",
+    "channel": 0,
+    "snr": 107.0,
+    "rate": 420.5
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GU",
+    "channel": 0,
+    "snr": 57.9,
+    "rate": 169.75
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GU",
+    "channel": 0,
+    "snr": 10.3,
+    "rate": 10.96875
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GU",
+    "channel": 0,
+    "snr": 39.5,
+    "rate": 45.7875
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GU",
+    "channel": 0,
+    "snr": 30.6,
+    "rate": 42.13125
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GU",
+    "channel": 0,
+    "snr": 88.0,
+    "rate": 325.0
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GU",
+    "channel": 0,
+    "snr": 78.0,
+    "rate": 322.75
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GU",
+    "channel": 0,
+    "snr": 2.3,
+    "rate": 1.40625
+  }, {
+    "model": "defaultAp",
+    "freqBand": "5GU",
+    "channel": 0,
+    "snr": 21.3,
+    "rate": 24.69375
+  }, {
 		"model": "PP203X",
 		"freqBand": "5GL",
 		"channel": 60,
