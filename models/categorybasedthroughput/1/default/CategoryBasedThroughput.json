@@ -8,12 +8,12 @@
  		"activeThroughputNeed": 3.0
  	}, {
  		"throughputClass": "powerpod",
- 		"subCategories": ["pp302z"],
+ 		"subCategories": ["pp302z", "ve32z"],
  		"idleThroughputNeed": 150.0,
  		"activeThroughputNeed": 450.0
  	}, {
  		"throughputClass": "pod",
- 		"subCategories": ["plume pod v1.0"],
+ 		"subCategories": ["plume pod v1.0","pp152x"],
  		"idleThroughputNeed": 50.0,
  		"activeThroughputNeed": 150.0
  	}, {
@@ -28,7 +28,7 @@
  		"activeThroughputNeed": 22.5
  	}, {
  		"throughputClass": "superpod",
- 		"subCategories": ["pp203x"],
+ 		"subCategories": ["pp203x","pp213x"],
  		"idleThroughputNeed": 200.0,
  		"activeThroughputNeed": 600.0
  	}, {
