@@ -182,6 +182,55 @@
     "maxNss": 2,
     "maxChWidth": 2,
     "phyMode": 9
+  }, {
+    "model": "PP213X",
+    "freqBand": "5GL",
+    "maxMcs": 0,
+    "maxNss": 4,
+    "maxChWidth": 2,
+    "phyMode": 9
+  }, {
+    "model": "PP213X",
+    "freqBand": "2.4G",
+    "maxMcs": 0,
+    "maxNss": 2,
+    "maxChWidth": 2,
+    "phyMode": 9
+  }, {
+    "model": "PP213X",
+    "freqBand": "5GU",
+    "maxMcs": 0,
+    "maxNss": 2,
+    "maxChWidth": 2,
+    "phyMode": 9
+  }, {
+    "model": "PP302Z",
+    "freqBand": "5G",
+    "maxMcs": 0,
+    "maxNss": 4,
+    "maxChWidth": 2,
+    "phyMode": 9
+  }, {
+    "model": "PP302Z",
+    "freqBand": "2.4G",
+    "maxMcs": 0,
+    "maxNss": 2,
+    "maxChWidth": 2,
+    "phyMode": 9
+  }, {
+    "model": "VE32Z",
+    "freqBand": "5G",
+    "maxMcs": 0,
+    "maxNss": 4,
+    "maxChWidth": 2,
+    "phyMode": 9
+  }, {
+    "model": "VE32Z",
+    "freqBand": "2.4G",
+    "maxMcs": 0,
+    "maxNss": 2,
+    "maxChWidth": 2,
+    "phyMode": 9
   }],
   "version" : "1.0"
 }

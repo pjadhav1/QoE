@@ -13,7 +13,7 @@
  		"activeThroughputNeed": 450.0
  	}, {
  		"throughputClass": "pod",
- 		"subCategories": ["plume pod v1.0","pp152x"],
+ 		"subCategories": ["plume pod v1.0","pp152x","et-wv535","et-wv520"],
  		"idleThroughputNeed": 50.0,
  		"activeThroughputNeed": 150.0
  	}, {
@@ -23,7 +23,7 @@
  		"activeThroughputNeed": 45.0
  	}, {
  		"throughputClass": "midRangeDevices",
- 		"subCategories": ["gaming system", "tv", "media player", "gamingconsole", "tv or home theater", "storage", "set top box", "mediasettopbox"],
+ 		"subCategories": ["gaming system", "tv", "media player", "gamingconsole", "tv or home theater", "storage", "set top box", "mediasettopbox", "car"],
  		"idleThroughputNeed": 7.5,
  		"activeThroughputNeed": 22.5
  	}, {
