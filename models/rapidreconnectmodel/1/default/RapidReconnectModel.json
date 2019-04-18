@@ -1,0 +1,17 @@
+
+{
+  "name": "RapidReconnectModel",
+  "version": "1.0",
+  "observingWindowDurationMillis": 120000,
+  "rapidReconnectDurationMillis": 3000,
+  "freqBandToRapidAlert": [
+    {
+      "freqBand": "2.4G",
+      "threshold": 2
+    }, {
+      "freqBand": "5G",
+      "threshold": 5
+    }
+  ]
+
+}
