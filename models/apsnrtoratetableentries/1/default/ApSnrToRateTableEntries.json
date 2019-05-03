@@ -5,19 +5,19 @@
 		"freqBand": "5GL",
 		"channel": 44,
 		"snr": 68.0,
-		"rate": 145.75
+		"rate": 61.94
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GL",
 		"channel": 44,
 		"snr": 107.0,
-		"rate": 189.25
+		"rate": 80.43
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GL",
 		"channel": 44,
 		"snr": 57.9,
-		"rate": 107.25
+		"rate": 45.58
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GL",
@@ -41,13 +41,13 @@
 		"freqBand": "5GL",
 		"channel": 44,
 		"snr": 88.0,
-		"rate": 198.25
+		"rate": 84.26
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GL",
 		"channel": 44,
 		"snr": 78.0,
-		"rate": 185.75
+		"rate": 78.94
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GL",
@@ -575,19 +575,19 @@
 		"freqBand": "5GU",
 		"channel": 157,
 		"snr": 68.0,
-		"rate": 293.5
+		"rate": 66.0375
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GU",
 		"channel": 157,
 		"snr": 107.0,
-		"rate": 265.0
+		"rate": 59.625
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GU",
 		"channel": 157,
 		"snr": 57.9,
-		"rate": 170.5
+		"rate": 38.363
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GU",
@@ -611,13 +611,13 @@
 		"freqBand": "5GU",
 		"channel": 157,
 		"snr": 88.0,
-		"rate": 322.75
+		"rate": 72.619
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GU",
 		"channel": 157,
 		"snr": 78.0,
-		"rate": 335.25
+		"rate": 75.43
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GU",
@@ -821,43 +821,43 @@
     "freqBand": "5GL",
     "channel": 0,
     "snr": 68.0,
-    "rate": 193.75
+    "rate": 61.944
   }, {
     "model": "defaultAp",
     "freqBand": "5GL",
     "channel": 0,
     "snr": 46.1,
-    "rate": 63.43125
+    "rate": 70.125
   }, {
     "model": "defaultAp",
     "freqBand": "5GL",
     "channel": 0,
     "snr": 57.9,
-    "rate": 100.0
+    "rate": 45.58
   }, {
     "model": "defaultAp",
     "freqBand": "5GL",
     "channel": 0,
     "snr": 37.9,
-    "rate": 68.74375
+    "rate": 70.02
   }, {
     "model": "defaultAp",
     "freqBand": "5GL",
     "channel": 0,
     "snr": 30.6,
-    "rate": 49.61875
+    "rate": 50.61875
   }, {
     "model": "defaultAp",
     "freqBand": "5GL",
     "channel": 0,
     "snr": 88.0,
-    "rate": 162.5
+    "rate": 84.256
   }, {
     "model": "defaultAp",
     "freqBand": "5GL",
     "channel": 0,
     "snr": 78.0,
-    "rate": 207.0
+    "rate": 78.9
   }, {
     "model": "defaultAp",
     "freqBand": "5GL",
@@ -881,31 +881,31 @@
     "freqBand": "5GU",
     "channel": 0,
     "snr": 68.0,
-    "rate": 300.75
+    "rate": 61.944
   }, {
     "model": "defaultAp",
     "freqBand": "5GU",
     "channel": 0,
     "snr": 107.0,
-    "rate": 420.5
+    "rate": 59.625
   }, {
     "model": "defaultAp",
     "freqBand": "5GU",
     "channel": 0,
     "snr": 57.9,
-    "rate": 169.75
+    "rate": 38.193
   }, {
     "model": "defaultAp",
     "freqBand": "5GU",
     "channel": 0,
     "snr": 10.3,
-    "rate": 10.96875
+    "rate": 16.96875
   }, {
     "model": "defaultAp",
     "freqBand": "5GU",
     "channel": 0,
     "snr": 39.5,
-    "rate": 45.7875
+    "rate": 51.7875
   }, {
     "model": "defaultAp",
     "freqBand": "5GU",
@@ -923,7 +923,7 @@
     "freqBand": "5GU",
     "channel": 0,
     "snr": 78.0,
-    "rate": 322.75
+    "rate": 72.62
   }, {
     "model": "defaultAp",
     "freqBand": "5GU",
@@ -941,7 +941,7 @@
 		"freqBand": "5GL",
 		"channel": 60,
 		"snr": 68.0,
-		"rate": 193.75
+		"rate": 82.343
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GL",
@@ -953,7 +953,7 @@
 		"freqBand": "5GL",
 		"channel": 60,
 		"snr": 57.9,
-		"rate": 100.0
+		"rate": 42.5
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GL",
@@ -971,13 +971,13 @@
 		"freqBand": "5GL",
 		"channel": 60,
 		"snr": 88.0,
-		"rate": 162.5
+		"rate": 69.063
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GL",
 		"channel": 60,
 		"snr": 78.0,
-		"rate": 207.0
+		"rate": 86
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GL",
@@ -1001,19 +1001,19 @@
 		"freqBand": "5GU",
 		"channel": 108,
 		"snr": 68.0,
-		"rate": 300.75
+		"rate": 67.67
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GU",
 		"channel": 108,
 		"snr": 107.0,
-		"rate": 420.5
+		"rate": 86
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GU",
 		"channel": 108,
 		"snr": 57.9,
-		"rate": 169.75
+		"rate": 38.19
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GU",
@@ -1037,13 +1037,13 @@
 		"freqBand": "5GU",
 		"channel": 108,
 		"snr": 88.0,
-		"rate": 325.0
+		"rate": 73.125
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GU",
 		"channel": 108,
 		"snr": 78.0,
-		"rate": 322.75
+		"rate": 72.62
 	}, {
 		"model": "PP203X",
 		"freqBand": "5GU",
@@ -1052,6 +1052,300 @@
 		"rate": 1.40625
 	}, {
 		"model": "PP203X",
+		"freqBand": "5GU",
+		"channel": 108,
+		"snr": 21.3,
+		"rate": 24.69375
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 44,
+		"snr": 68.0,
+		"rate": 61.94
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 44,
+		"snr": 107.0,
+		"rate": 80.43
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 44,
+		"snr": 57.9,
+		"rate": 45.58
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 44,
+		"snr": 37.9,
+		"rate": 70.02
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 44,
+		"snr": 10.3,
+		"rate": 15.3
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 44,
+		"snr": 30.6,
+		"rate": 50.575
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 44,
+		"snr": 88.0,
+		"rate": 84.26
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 44,
+		"snr": 78.0,
+		"rate": 78.94
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 44,
+		"snr": 9.0,
+		"rate": 0.85
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 44,
+		"snr": 47.9,
+		"rate": 70.125
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 44,
+		"snr": 21.3,
+		"rate": 30.6
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 157,
+		"snr": 68.0,
+		"rate": 66.0375
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 157,
+		"snr": 107.0,
+		"rate": 59.625
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 157,
+		"snr": 57.9,
+		"rate": 38.363
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 157,
+		"snr": 10.3,
+		"rate": 16.25625
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 157,
+		"snr": 39.5,
+		"rate": 46.575
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 157,
+		"snr": 30.6,
+		"rate": 44.38125
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 157,
+		"snr": 88.0,
+		"rate": 72.619
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 157,
+		"snr": 78.0,
+		"rate": 75.43
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 157,
+		"snr": 9.0,
+		"rate": 3.76875
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 157,
+		"snr": 2.3,
+		"rate": 0.5625
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 157,
+		"snr": 21.3,
+		"rate": 32.23125
+	}, {
+		"model": "PP302Z",
+		"freqBand": "2.4G",
+		"channel": 0,
+		"snr": 46.1,
+		"rate": 37.5
+	}, {
+		"model": "PP302Z",
+		"freqBand": "2.4G",
+		"channel": 0,
+		"snr": 57.9,
+		"rate": 37.5
+	}, {
+		"model": "PP302Z",
+		"freqBand": "2.4G",
+		"channel": 0,
+		"snr": 37.9,
+		"rate": 35.0
+	}, {
+		"model": "PP302Z",
+		"freqBand": "2.4G",
+		"channel": 0,
+		"snr": 39.5,
+		"rate": 37.5
+	}, {
+		"model": "PP302Z",
+		"freqBand": "2.4G",
+		"channel": 0,
+		"snr": 30.6,
+		"rate": 26.25
+	}, {
+		"model": "PP302Z",
+		"freqBand": "2.4G",
+		"channel": 0,
+		"snr": 47.9,
+		"rate": 37.5
+	}, {
+		"model": "PP302Z",
+		"freqBand": "2.4G",
+		"channel": 0,
+		"snr": 21.3,
+		"rate": 8.85
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 60,
+		"snr": 68.0,
+		"rate": 82.343
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 60,
+		"snr": 46.1,
+		"rate": 63.43125
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 60,
+		"snr": 57.9,
+		"rate": 42.5
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 60,
+		"snr": 37.9,
+		"rate": 68.74375
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 60,
+		"snr": 30.6,
+		"rate": 49.61875
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 60,
+		"snr": 88.0,
+		"rate": 69.063
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 60,
+		"snr": 78.0,
+		"rate": 87.98
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 60,
+		"snr": 9.0,
+		"rate": 9.775
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 60,
+		"snr": 2.3,
+		"rate": 0.53125
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GL",
+		"channel": 60,
+		"snr": 21.3,
+		"rate": 30.06875
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 108,
+		"snr": 68.0,
+		"rate": 67.67
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 108,
+		"snr": 107.0,
+		"rate": 86
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 108,
+		"snr": 57.9,
+		"rate": 38.19
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 108,
+		"snr": 10.3,
+		"rate": 10.96875
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 108,
+		"snr": 39.5,
+		"rate": 45.7875
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 108,
+		"snr": 30.6,
+		"rate": 42.13125
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 108,
+		"snr": 88.0,
+		"rate": 73.125
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 108,
+		"snr": 78.0,
+		"rate": 72.62
+	}, {
+		"model": "PP302Z",
+		"freqBand": "5GU",
+		"channel": 108,
+		"snr": 2.3,
+		"rate": 1.40625
+	}, {
+		"model": "PP302Z",
 		"freqBand": "5GU",
 		"channel": 108,
 		"snr": 21.3,
