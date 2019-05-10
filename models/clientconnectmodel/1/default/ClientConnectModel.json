@@ -1,0 +1,6 @@
+{
+  "name": "ClientConnectModel",
+  "version": "1.0.0",
+  "observingWindowDurationMinutes": 5,
+  "connectCountThreshold": 2
+}
