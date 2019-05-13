@@ -691,13 +691,13 @@
 		"snr": 8.0,
 		"rate": 8.0
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "2.4G",
 		"channel": 0,
 		"snr": 20.0,
 		"rate": 32.5
 	}, {
-		"model": "default",
+		"model": "defaultAp",
 		"freqBand": "2.4G",
 		"channel": 0,
 		"snr": 2.0,
