@@ -6,217 +6,445 @@
     "maxMcs": 9,
     "maxNss": 4,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 200e6,
+    "jointOptTarget": 200e6,
+    "converageCliRate": 1875e5
   }, {
     "model": "CGM4140COM",
     "freqBand": "2.4G",
     "maxMcs": 15,
     "maxNss": 2,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0, 1],
+    "converageOptTarget": 10e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 90e6
   }, {
     "model": "HH3000",
     "freqBand": "2.4G",
     "maxMcs": 31,
     "maxNss": 4,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0, 1],
+    "converageOptTarget": 20e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 180e6
   }, {
     "model": "HH3000",
     "freqBand": "5GU",
     "maxMcs": 9,
     "maxNss": 4,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 200e6,
+    "jointOptTarget": 200e6,
+    "converageCliRate": 1375e5
   }, {
     "model": "HH3000",
     "freqBand": "5GL",
     "maxMcs": 9,
     "maxNss": 4,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 200e6,
+    "jointOptTarget": 200e6,
+    "converageCliRate": 1375e5
   }, {
     "model": "TG3482G",
     "freqBand": "5G",
     "maxMcs": 9,
     "maxNss": 4,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 200e6,
+    "jointOptTarget": 200e6,
+    "converageCliRate": 1875e5
   }, {
     "model": "TG3482G",
     "freqBand": "2.4G",
     "maxMcs": 15,
     "maxNss": 2,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0,1],
+    "converageOptTarget": 10e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 90e6
   }, {
     "model": "PP203X",
     "freqBand": "2.4G",
     "maxMcs": 15,
     "maxNss": 2,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0,1],
+    "converageOptTarget": 10e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 90e6
   }, {
     "model": "PP203X",
     "freqBand": "5GU",
     "maxMcs": 9,
     "maxNss": 4,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 500e6,
+    "jointOptTarget": 200e6,
+    "converageCliRate": 175e6
   }, {
     "model": "PP203X",
     "freqBand": "5GL",
     "maxMcs": 9,
     "maxNss": 2,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 500e6,
+    "jointOptTarget": 200e6,
+    "converageCliRate": 125e6
   }, {
     "model": "DPC3941T",
     "freqBand": "2.4G",
     "maxMcs": 23,
     "maxNss": 3,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0,1],
+    "converageOptTarget": 20e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 150e6
   }, {
     "model": "DPC3941T",
     "freqBand": "5G",
     "maxMcs": 9,
     "maxNss": 3,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 170e6,
+    "jointOptTarget": 170e6,
+    "converageCliRate": 1375e5
   }, {
     "model": "DPC3939",
     "freqBand": "2.4G",
     "maxMcs": 7,
     "maxNss": 3,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0,1],
+    "converageOptTarget": 20e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 150e6
   }, {
     "model": "DPC3939",
     "freqBand": "5G",
     "maxMcs": 23,
     "maxNss": 3,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [1],
+    "converageOptTarget": 170e6,
+    "jointOptTarget": 170e6,
+    "converageCliRate": 1375e5
+  }, {
+    "model": "DPC3939withPods",
+    "freqBand": "2.4G",
+    "maxMcs": 7,
+    "maxNss": 3,
+    "maxChWidth": 1,
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0,1],
+    "converageOptTarget": 20e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 150e6
+  }, {
+    "model": "DPC3939withPods",
+    "freqBand": "5G",
+    "maxMcs": 23,
+    "maxNss": 3,
+    "maxChWidth": 1,
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 170e6,
+    "jointOptTarget": 170e6,
+    "converageCliRate": 1375e5
   }, {
     "model": "TG1682G",
     "freqBand": "5G",
     "maxMcs": 9,
     "maxNss": 3,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 170e6,
+    "jointOptTarget": 170e6,
+    "converageCliRate": 1375e5
   }, {
     "model": "TG1682G",
     "freqBand": "2.4G",
     "maxMcs": 23,
     "maxNss": 3,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0,1],
+    "converageOptTarget": 20e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 150e6
   }, {
     "model": "Plume Pod v1.0",
     "freqBand": "5G",
     "maxMcs": 9,
     "maxNss": 2,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 130e6,
+    "jointOptTarget": 130e6,
+    "converageCliRate": 100e6
   }, {
     "model": "Plume Pod v1.0",
     "freqBand": "2.4G",
     "maxMcs": 15,
     "maxNss": 2,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0,1],
+    "converageOptTarget": 10e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 90e6
   }, {
     "model": "defaultAp",
     "freqBand": "2.4G",
     "maxMcs": 15,
     "maxNss": 2,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0,1],
+    "converageOptTarget": 10e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 90e6
   }, {
     "model": "defaultAp",
     "freqBand": "5G",
     "maxMcs": 9,
     "maxNss": 2,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 130e6,
+    "jointOptTarget": 130e6,
+    "converageCliRate": 100e6
   }, {
     "model": "defaultAp",
     "freqBand": "5GU",
     "maxMcs": 9,
     "maxNss": 2,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 130e6,
+    "jointOptTarget": 130e6,
+    "converageCliRate": 100e6
   }, {
     "model": "defaultAp",
     "freqBand": "5GL",
     "maxMcs": 9,
     "maxNss": 2,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 130e6,
+    "jointOptTarget": 130e6,
+    "converageCliRate": 100e6
   }, {
     "model": "HH2000",
     "freqBand": "2.4G",
     "maxMcs": 23,
     "maxNss": 3,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0,1],
+    "converageOptTarget": 20e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 150e6
   }, {
     "model": "HH2000",
     "freqBand": "5G",
     "maxMcs": 9,
     "maxNss": 3,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 170e6,
+    "jointOptTarget": 170e6,
+    "converageCliRate": 1375e5
   }, {
     "model": "PP213X",
     "freqBand": "5GL",
     "maxMcs": 9,
     "maxNss": 4,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 500e6,
+    "jointOptTarget": 200e6,
+    "converageCliRate": 125e6
   }, {
     "model": "PP213X",
     "freqBand": "2.4G",
     "maxMcs": 15,
     "maxNss": 2,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0,1],
+    "converageOptTarget": 10e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 90e6
   }, {
     "model": "PP213X",
     "freqBand": "5GU",
     "maxMcs": 9,
     "maxNss": 2,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 500e6,
+    "jointOptTarget": 200e6,
+    "converageCliRate": 175e6
   }, {
     "model": "PP302Z",
     "freqBand": "5G",
     "maxMcs": 9,
     "maxNss": 4,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 130e6,
+    "jointOptTarget": 130e6,
+    "converageCliRate": 100e6
   }, {
     "model": "PP302Z",
     "freqBand": "2.4G",
     "maxMcs": 15,
     "maxNss": 2,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0,1],
+    "converageOptTarget": 10e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 90e6
   }, {
     "model": "VE32Z",
     "freqBand": "5G",
     "maxMcs": 9,
     "maxNss": 4,
     "maxChWidth": 2,
-    "phyMode": 9
+    "phyMode": 9,
+    "configurable": 1,
+    "allowedChWidth": [2],
+    "converageOptTarget": 130e6,
+    "jointOptTarget": 130e6,
+    "converageCliRate": 100e6
   }, {
     "model": "VE32Z",
     "freqBand": "2.4G",
     "maxMcs": 15,
     "maxNss": 2,
     "maxChWidth": 1,
-    "phyMode": 7
+    "phyMode": 7,
+    "configurable": 1,
+    "allowedChWidth": [0,1],
+    "converageOptTarget": 10e6,
+    "jointOptTarget": 10e6,
+    "converageCliRate": 90e6
+  }],
+  "configurations":[{
+    "model": "defaultAp",
+    "freqBand": "2.4G",
+    "chWidth": 0,
+    "channels": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+    "gainCorrection": 0,
+    "ptxMode": "defaultPtx",
+    "noiseMode": "defaultRxNoise"
+  },{
+    "model": "defaultAp",
+    "freqBand": "5G",
+    "chWidth": 0,
+    "channels": [36, 40, 44, 48, 52, 56, 60, 64, 100, 104, 108, 112, 116, 120, 124, 128, 132, 136, 140, 144, 149, 153, 157, 161, 165],
+    "gainCorrection": 0,
+    "ptxMode": "defaultPtx",
+    "noiseMode": "defaultRxNoise"
+  },{
+    "model": "defaultAp",
+    "freqBand": "5G",
+    "chWidth": 1,
+    "channels": [36, 40, 44, 48, 52, 56, 60, 64, 100, 104, 108, 112, 116, 120, 124, 128, 132, 136, 140, 144, 149, 153, 157, 161],
+    "gainCorrection": 0,
+    "ptxMode": "defaultPtx",
+    "noiseMode": "defaultRxNoise"
+  },{
+    "model": "defaultAp",
+    "freqBand": "5GL",
+    "chWidth": 0,
+    "channels": [36, 40, 44, 48, 52, 56, 60, 64],
+    "gainCorrection": 0,
+    "ptxMode": "defaultPtx",
+    "noiseMode": "defaultRxNoise"
+  },{
+    "model": "defaultAp",
+    "freqBand": "5GU",
+    "chWidth": 0,
+    "channels": [100, 104, 108, 112, 116, 120, 124, 128, 132, 136, 140, 144, 149, 153, 157, 161, 165],
+    "gainCorrection": 0,
+    "ptxMode": "defaultPtx",
+    "noiseMode": "defaultRxNoise"
+  },{
+    "model": "defaultAp",
+    "freqBand": "5GU",
+    "chWidth": 1,
+    "channels": [100, 104, 108, 112, 116, 120, 124, 128, 132, 136, 140, 144, 149, 153, 157, 161],
+    "gainCorrection": 0,
+    "ptxMode": "defaultPtx",
+    "noiseMode": "defaultRxNoise"
   }],
   "version" : "1.0"
 }
