@@ -1,6 +1,6 @@
 {
   "name": "realtimeinsights",
-  "endpoint": "/realtimeinsights/models",
+  "endpoint": "/models",
   "method": "POST",
   "delivery": "s3",
   "payload": {
