@@ -1,0 +1,14 @@
+{
+  "name": "optimizer",
+  "endpoint": "/models",
+  "method": "POST",
+  "delivery": "s3",
+  "payload": {
+    "name": "$MODEL_NAME",
+    "version": "$MODEL_VERSION",
+    "s3": {
+      "bucket": "$BUCKET",
+      "key": "type=adaptiveWifiModels/deployment=$DEPLOYMENT/model=$MODEL_NAME/version=$MODEL_VERSION/$FILENAME.json"
+    }
+  }
+}
