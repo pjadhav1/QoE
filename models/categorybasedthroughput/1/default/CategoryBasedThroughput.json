@@ -3,7 +3,13 @@
  "version": "1.0",
  "categoryBasedThroughputEntries": [{
    "throughputClass": "iot",
-   "subCategories": ["voice assistant", "thermostat-nest", "appliance or wearable", "wifi speaker", "speaker", "watch", "hub-philips", "speaker-echo", "computer accessory", "thermostat", "iot", "default"],
+   "subCategories": ["voice assistant", "thermostat-nest", "appliance or wearable", "wifi speaker", "speaker", "watch", "hub-philips", "speaker-echo",
+      "computer accessory", "thermostat", "iot", "default", "Air Purifier", "Bike", "Bitcoin Miner", "Clock", "Coffee Maker", "Cooktop",
+       "Custom Gateway", "Diffuser", "Dish Washer", "Doorbell", "Doorlock", "E-Reader", "EV Charger", "Fan", "Fitness Trainer", "Fridge",
+        "Garage Opener", "Home Security", "Hub", "Humidifier", "Light Bulb", "Light Switch", "Media Player", "Oven", "Pet Accessory", "Plug",
+        "Pool System", "Printer", "Rotimatic", "Scale", "Sensor", "Sleep System", "Maker Device", "Smart Monitor", "Smoke Alarm", "Solar",
+         "Speaker", "Sprinkler", "Storage", "Thermostat", "Toy", "Vacuum", "Virtual Reality", "Visitor Management", "Voice Assistant", "VOIP Gateway",
+         "Washer Dryer", "Watch", "Water Heater", "Wearable", "Weather Monitor", "WiFi Tracker"],
    "idleThroughputNeed": 1.0,
    "activeThroughputNeed": 3.0
  }, {
@@ -18,12 +24,12 @@
    "activeThroughputNeed": 150.0
  }, {
    "throughputClass": "highEndDevices",
-   "subCategories": ["laptop computer", "desktop", "mobile phone", "router", "smartphone-android", "laptop-macbook", "mobile", "tablet", "desktop computer"],
+   "subCategories": ["computer", "laptop computer", "desktop", "mobile phone", "router", "Router", "Mesh Router", "smartphone-android", "laptop-macbook", "mobile", "smart phone", "tablet", "desktop computer"],
    "idleThroughputNeed": 15.0,
    "activeThroughputNeed": 45.0
  }, {
    "throughputClass": "midRangeDevices",
-   "subCategories": ["gaming system", "tv", "media player", "gamingconsole", "tv or home theater", "storage", "set top box", "mediasettopbox", "car"],
+   "subCategories": ["gaming system", "game console", "Game Console", "tv", "media player", "gamingconsole", "tv or home theater", "storage", "set top box", "mediasettopbox", "Car", "car", "Set Top Box"],
    "idleThroughputNeed": 7.5,
    "activeThroughputNeed": 22.5
  }, {
@@ -33,7 +39,7 @@
    "activeThroughputNeed": 600.0
  }, {
    "throughputClass": "cams",
-   "subCategories": ["voip gateway", "doorbell-ring", "camera-canary", "cameras & camcorders", "camera-nest", "camera"],
+   "subCategories": ["voip gateway", "doorbell-ring", "camera-canary", "cameras & camcorders", "camera-nest", "camera", "Camera"],
    "idleThroughputNeed": 5.0,
    "activeThroughputNeed": 15.0
  }]
