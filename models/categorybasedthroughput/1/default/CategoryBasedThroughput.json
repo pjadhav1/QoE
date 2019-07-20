@@ -3,13 +3,13 @@
  "version": "1.0",
  "categoryBasedThroughputEntries": [{
    "throughputClass": "iot",
-   "subCategories": ["voice assistant", "thermostat-nest", "appliance or wearable", "wifi speaker", "speaker", "watch", "hub-philips", "speaker-echo",
+   "subCategories": ["voice assistant", "thermostat-nest", "appliance or wearable", "watch", "hub-philips",
       "computer accessory", "thermostat", "iot", "default", "Air Purifier", "Bike", "Bitcoin Miner", "Clock", "Coffee Maker", "Cooktop",
-       "Custom Gateway", "Diffuser", "Dish Washer", "Doorbell", "Doorlock", "E-Reader", "EV Charger", "Fan", "Fitness Trainer", "Fridge",
-        "Garage Opener", "Home Security", "Hub", "Humidifier", "Light Bulb", "Light Switch", "Media Player", "Oven", "Pet Accessory", "Plug",
-        "Pool System", "Printer", "Rotimatic", "Scale", "Sensor", "Sleep System", "Maker Device", "Smart Monitor", "Smoke Alarm", "Solar",
-         "Speaker", "Sprinkler", "Storage", "Thermostat", "Toy", "Vacuum", "Virtual Reality", "Visitor Management", "Voice Assistant", "VOIP Gateway",
-         "Washer Dryer", "Watch", "Water Heater", "Wearable", "Weather Monitor", "WiFi Tracker"],
+       "Diffuser", "Dish Washer", "Doorbell", "Doorlock", "EV Charger", "Fan", "Fitness Trainer", "Fridge",
+        "Garage Opener", "Home Security", "Hub", "Humidifier", "Light Bulb", "Light Switch", "Oven", "Pet Accessory", "Plug",
+        "Pool System", "Rotimatic", "Scale", "Sensor", "Sleep System", "Maker Device", "Smart Monitor", "Smoke Alarm", "Solar",
+         "Sprinkler", "Thermostat", "Toy", "Vacuum", "Virtual Reality", "Visitor Management",
+         "Washer Dryer", "Water Heater", "Wearable", "Weather Monitor", "WiFi Tracker"],
    "idleThroughputNeed": 1.0,
    "activeThroughputNeed": 3.0
  }, {
@@ -24,12 +24,14 @@
    "activeThroughputNeed": 150.0
  }, {
    "throughputClass": "highEndDevices",
-   "subCategories": ["computer", "laptop computer", "desktop", "mobile phone", "router", "Router", "Mesh Router", "smartphone-android", "laptop-macbook", "mobile", "smart phone", "tablet", "desktop computer"],
+   "subCategories": ["computer", "laptop computer", "desktop", "mobile phone", "router", "Mesh Router", "smartphone-android", "laptop-macbook",
+     "mobile", "smart phone", "tablet", "desktop computer", "Custom Gateway", "gaming system", "gamingconsole", "game console", "tv", "tv or home theater", "set top box"],
    "idleThroughputNeed": 15.0,
    "activeThroughputNeed": 45.0
  }, {
    "throughputClass": "midRangeDevices",
-   "subCategories": ["gaming system", "game console", "Game Console", "tv", "media player", "gamingconsole", "tv or home theater", "storage", "set top box", "mediasettopbox", "Car", "car", "Set Top Box"],
+   "subCategories": ["media player", "storage", "mediasettopbox", "car",
+                    "wifi speaker", "speaker", "speaker-echo", "E-Reader", "Printer", "voip gateway", "Voice Assistant"],
    "idleThroughputNeed": 7.5,
    "activeThroughputNeed": 22.5
  }, {
@@ -39,7 +41,7 @@
    "activeThroughputNeed": 600.0
  }, {
    "throughputClass": "cams",
-   "subCategories": ["voip gateway", "doorbell-ring", "camera-canary", "cameras & camcorders", "camera-nest", "camera", "Camera"],
+   "subCategories": ["doorbell-ring", "camera-canary", "cameras & camcorders", "camera-nest", "camera"],
    "idleThroughputNeed": 5.0,
    "activeThroughputNeed": 15.0
  }]
