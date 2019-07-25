@@ -5,8 +5,8 @@
    "throughputClass": "iot",
    "subCategories": ["thermostat-nest", "appliance or wearable", "watch", "hub-philips", "thermostat", "iot", "default", "Air Purifier", "Bike", "Bitcoin Miner",
      "Clock", "Coffee Maker", "Cooktop", "Diffuser", "Dish Washer", "Doorbell", "Doorlock", "EV Charger", "Fan", "Fitness Trainer", "Fridge","Garage Opener", "Home Security",
-     "Hub", "Humidifier", "Light Bulb", "Light Switch", "Oven", "Pet Accessory", "Plug", "Pool System", "Rotimatic", "Scale", "Sensor", "Sleep System", "Maker Device", "Smart Monitor", "Smoke Alarm", "Solar",
-     "Sprinkler", "Toy", "Vacuum", "Virtual Reality", "Visitor Management", "Washer Dryer", "Water Heater", "Wearable", "Weather Monitor", "WiFi Tracker"],
+     "Humidifier", "Light Bulb", "Light Switch", "Oven", "Pet Accessory", "Plug", "Pool System", "Rotimatic", "Scale", "Sensor", "Sleep System", "Maker Device", "Smart Monitor", "Smoke Alarm", "Solar",
+     "Sprinkler", "Toy", "Vacuum", "Virtual Reality", "Visitor Management", "Washer Dryer", "Water Heater", "Wearable", "Weather Monitor", "WiFi Tracker", "smart device"],
    "idleThroughputNeed": 1.0,
    "activeThroughputNeed": 3.0
  }, {
@@ -22,13 +22,13 @@
  }, {
    "throughputClass": "highEndDevices",
    "subCategories": ["computer", "laptop computer", "desktop", "mobile phone", "router", "Mesh Router", "smartphone-android", "laptop-macbook",
-     "mobile", "smart phone", "phone", "tablet", "desktop computer", "Custom Gateway", "gaming system", "gamingconsole", "game console", "tv", "tv or home theater", "set top box"],
+     "mobile", "smart phone", "phone", "tablet", "desktop computer", "Custom Gateway", "gaming system", "gamingconsole", "game console", "tv", "tv or home theater", "set top box", "server"],
    "idleThroughputNeed": 15.0,
    "activeThroughputNeed": 45.0
  }, {
    "throughputClass": "midRangeDevices",
    "subCategories": ["media player", "storage", "mediasettopbox", "car",
-                    "wifi speaker", "speaker", "speaker-echo", "E-Reader", "Printer", "voip gateway", "voice assistant", "computer accessory"],
+                    "wifi speaker", "speaker", "speaker-echo", "E-Reader", "Printer", "voip gateway", "voice assistant", "computer accessory", "hub"],
    "idleThroughputNeed": 7.5,
    "activeThroughputNeed": 22.5
  }, {
