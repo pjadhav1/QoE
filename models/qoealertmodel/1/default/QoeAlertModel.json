@@ -1,9 +1,9 @@
 {
   "name": "QoeAlertModel",
-  "version": "1.0",
-  "usageBasedScoreWeight": 2.0,
+  "version": "1.1",
+  "usageBasedScoreWeight": 1.0,
   "needBasedScoreWeight": 1.0,
-  "alertThreshold": 0.70,
-  "needBasedScoreThreshold": 2.0,
-  "usageBasedScoreThreshold": 2.0
+  "alertThreshold": 0.50,
+  "needBasedScoreThreshold": 2.5,
+  "usageBasedScoreThreshold": 2.5
 }
