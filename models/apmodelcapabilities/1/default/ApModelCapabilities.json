@@ -901,6 +901,137 @@
         13
       ],
       "freqBand":"2.4G",
+      "model":"VE332Z"
+    },
+    {
+      "chWidth":0,
+      "channels":[
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "freqBand":"2.4G",
+      "model":"VE332Z"
+    },
+    {
+      "chWidth":1,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        116,
+        120,
+        128,
+        132,
+        136,
+        140,
+        144,
+        149,
+        153,
+        157,
+        161
+      ],
+      "freqBand":"5G",
+      "model":"VE332Z"
+    },
+    {
+      "chWidth":2,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        116,
+        120,
+        128,
+        132,
+        136,
+        140,
+        144,
+        149,
+        153,
+        157,
+        161
+      ],
+      "freqBand":"5G",
+      "model":"VE332Z"
+    },
+    {
+      "chWidth":0,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        116,
+        120,
+        128,
+        132,
+        136,
+        140,
+        144,
+        149,
+        153,
+        157,
+        161,
+        165
+      ],
+      "freqBand":"5G",
+      "model":"VE332Z"
+    },
+    {
+      "chWidth":1,
+      "channels":[
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "freqBand":"2.4G",
       "model":"DPC3939withPods"
     },
     {
@@ -1869,6 +2000,37 @@
       "maxMcs":15,
       "maxNss":2,
       "model":"VE32Z",
+      "phyMode":7
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "configurable":1,
+      "coverageCliRate":100000000.0,
+      "coverageOptTarget":130000000.0,
+      "freqBand":"5G",
+      "jointOptTarget":130000000.0,
+      "maxChWidth":2,
+      "maxMcs":9,
+      "maxNss":4,
+      "model":"VE332Z",
+      "phyMode":9
+    },
+    {
+      "allowedChWidth":[
+        0,
+        1
+      ],
+      "configurable":1,
+      "coverageCliRate":90000000.0,
+      "coverageOptTarget":10000000.0,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":15,
+      "maxNss":2,
+      "model":"VE332Z",
       "phyMode":7
     },
     {
@@ -3352,6 +3514,61 @@
       "channel":149,
       "freqBand":"5G",
       "model":"VE32Z",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":30.0,
+      "ptxMngPacket":30,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"VE332Z",
+      "noise":-92.0,
+      "noiseMngPacket":-95.0,
+      "ptx":20.0,
+      "ptxMngPacket":30,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":36,
+      "freqBand":"5G",
+      "model":"VE332Z",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":30.0,
+      "ptxMngPacket":30,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":52,
+      "freqBand":"5G",
+      "model":"VE332Z",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":30.0,
+      "ptxMngPacket":30,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":100,
+      "freqBand":"5G",
+      "model":"VE332Z",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":30.0,
+      "ptxMngPacket":30,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":149,
+      "freqBand":"5G",
+      "model":"VE332Z",
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":30.0,
@@ -6956,5 +7173,5 @@
       "regulatoryDomain":"JP"
     }
   ],
-  "version":"1.0"
+  "version":"1.1"
 }
