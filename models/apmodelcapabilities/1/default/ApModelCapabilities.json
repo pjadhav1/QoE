@@ -264,6 +264,137 @@
         8,
         9,
         10,
+        11,
+        12,
+        13
+      ],
+      "freqBand":"2.4G",
+      "model":"VE332Z"
+    },
+    {
+      "chWidth":0,
+      "channels":[
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "freqBand":"2.4G",
+      "model":"VE332Z"
+    },
+    {
+      "chWidth":1,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        116,
+        120,
+        128,
+        132,
+        136,
+        140,
+        144,
+        149,
+        153,
+        157,
+        161
+      ],
+      "freqBand":"5G",
+      "model":"VE332Z"
+    },
+    {
+      "chWidth":2,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        116,
+        120,
+        128,
+        132,
+        136,
+        140,
+        144,
+        149,
+        153,
+        157,
+        161
+      ],
+      "freqBand":"5G",
+      "model":"VE332Z"
+    },
+    {
+      "chWidth":0,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        116,
+        120,
+        128,
+        132,
+        136,
+        140,
+        144,
+        149,
+        153,
+        157,
+        161,
+        165
+      ],
+      "freqBand":"5G",
+      "model":"VE332Z"
+    },
+    {
+      "chWidth":1,
+      "channels":[
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
         11
       ],
       "freqBand":"2.4G",
@@ -901,7 +1032,7 @@
         13
       ],
       "freqBand":"2.4G",
-      "model":"VE332Z"
+      "model":"VFSC_VOX30_IT"
     },
     {
       "chWidth":0,
@@ -921,7 +1052,7 @@
         13
       ],
       "freqBand":"2.4G",
-      "model":"VE332Z"
+      "model":"VFSC_VOX30_IT"
     },
     {
       "chWidth":1,
@@ -940,18 +1071,13 @@
         112,
         116,
         120,
+        124,
         128,
         132,
-        136,
-        140,
-        144,
-        149,
-        153,
-        157,
-        161
+        136
       ],
       "freqBand":"5G",
-      "model":"VE332Z"
+      "model":"VFSC_VOX30_IT"
     },
     {
       "chWidth":2,
@@ -970,18 +1096,11 @@
         112,
         116,
         120,
-        128,
-        132,
-        136,
-        140,
-        144,
-        149,
-        153,
-        157,
-        161
+        124,
+        128
       ],
       "freqBand":"5G",
-      "model":"VE332Z"
+      "model":"VFSC_VOX30_IT"
     },
     {
       "chWidth":0,
@@ -1000,19 +1119,128 @@
         112,
         116,
         120,
+        124,
         128,
         132,
         136,
-        140,
-        144,
-        149,
-        153,
-        157,
-        161,
-        165
+        140
       ],
       "freqBand":"5G",
-      "model":"VE332Z"
+      "model":"VFSC_VOX30_IT"
+    },
+    {
+      "chWidth":1,
+      "channels":[
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "freqBand":"2.4G",
+      "model":"VFSC_H500S_ES"
+    },
+    {
+      "chWidth":0,
+      "channels":[
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "freqBand":"2.4G",
+      "model":"VFSC_H500S_ES"
+    },
+    {
+      "chWidth":1,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        116,
+        120,
+        124,
+        128,
+        132,
+        136
+      ],
+      "freqBand":"5G",
+      "model":"VFSC_H500S_ES"
+    },
+    {
+      "chWidth":2,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        116,
+        120,
+        124,
+        128
+      ],
+      "freqBand":"5G",
+      "model":"VFSC_H500S_ES"
+    },
+    {
+      "chWidth":0,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        116,
+        120,
+        124,
+        128,
+        132,
+        136,
+        140
+      ],
+      "freqBand":"5G",
+      "model":"VFSC_H500S_ES"
     },
     {
       "chWidth":1,
@@ -1244,136 +1472,6 @@
       ],
       "freqBand":"5G",
       "model":"ONTL3"
-    },
-    {
-      "chWidth":0,
-      "channels":[
-        36,
-        40,
-        44,
-        48,
-        52,
-        56,
-        60,
-        64,
-        100,
-        104,
-        108,
-        112,
-        116,
-        120,
-        124,
-        128,
-        132,
-        136,
-        140,
-        144,
-        149,
-        153,
-        157,
-        161,
-        165
-      ],
-      "freqBand":"5G",
-      "model":"ONTL3"
-    },
-    {
-      "chWidth":1,
-      "channels":[
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
-      "freqBand":"2.4G",
-      "model":"RAC2V1S"
-    },
-    {
-      "chWidth":0,
-      "channels":[
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11
-      ],
-      "freqBand":"2.4G",
-      "model":"RAC2V1S"
-    },
-    {
-      "chWidth":1,
-      "channels":[
-        36,
-        40,
-        44,
-        48,
-        52,
-        56,
-        60,
-        64,
-        100,
-        104,
-        108,
-        112,
-        116,
-        120,
-        124,
-        128,
-        132,
-        136,
-        140,
-        144,
-        149,
-        153,
-        157,
-        161
-      ],
-      "freqBand":"5G",
-      "model":"RAC2V1S"
-    },
-    {
-      "chWidth":2,
-      "channels":[
-        36,
-        40,
-        44,
-        48,
-        52,
-        56,
-        60,
-        64,
-        100,
-        104,
-        108,
-        112,
-        116,
-        120,
-        124,
-        128,
-        132,
-        136,
-        140,
-        144,
-        149,
-        153,
-        157,
-        161
-      ],
-      "freqBand":"5G",
-      "model":"RAC2V1S"
     },
     {
       "chWidth":0,
@@ -1405,7 +1503,109 @@
         165
       ],
       "freqBand":"5G",
-      "model":"RAC2V1S"
+      "model":"ONTL3"
+    },
+    {
+      "chWidth":1,
+      "channels":[
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "freqBand":"2.4G",
+      "model":"VFSC_VOX25_ES"
+    },
+    {
+      "chWidth":0,
+      "channels":[
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "freqBand":"2.4G",
+      "model":"VFSC_VOX25_ES"
+    },
+    {
+      "chWidth":1,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        132,
+        136
+      ],
+      "freqBand":"5G",
+      "model":"VFSC_VOX25_ES"
+    },
+    {
+      "chWidth":2,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112
+      ],
+      "freqBand":"5G",
+      "model":"VFSC_VOX25_ES"
+    },
+    {
+      "chWidth":0,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        132,
+        136,
+        140
+      ],
+      "freqBand":"5G",
+      "model":"VFSC_VOX25_ES"
     },
     {
       "chWidth":1,
@@ -1853,6 +2053,68 @@
         2
       ],
       "configurable":1,
+      "coverageCliRate":187500000.0,
+      "coverageOptTarget":200000000.0,
+      "freqBand":"5G",
+      "jointOptTarget":200000000.0,
+      "maxChWidth":2,
+      "maxMcs":9,
+      "maxNss":4,
+      "model":"CGM4331COM",
+      "phyMode":9
+    },
+    {
+      "allowedChWidth":[
+        0,
+        1
+      ],
+      "configurable":1,
+      "coverageCliRate":90000000.0,
+      "coverageOptTarget":10000000.0,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":31,
+      "maxNss":4,
+      "model":"CGM4331COM",
+      "phyMode":7
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "configurable":1,
+      "coverageCliRate":100000000.0,
+      "coverageOptTarget":130000000.0,
+      "freqBand":"5G",
+      "jointOptTarget":130000000.0,
+      "maxChWidth":2,
+      "maxMcs":9,
+      "maxNss":4,
+      "model":"VE332Z",
+      "phyMode":9
+    },
+    {
+      "allowedChWidth":[
+        0,
+        1
+      ],
+      "configurable":1,
+      "coverageCliRate":90000000.0,
+      "coverageOptTarget":10000000.0,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":15,
+      "maxNss":2,
+      "model":"VE332Z",
+      "phyMode":7
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "configurable":1,
       "coverageCliRate":137500000.0,
       "coverageOptTarget":170000000.0,
       "freqBand":"5G",
@@ -2000,37 +2262,6 @@
       "maxMcs":15,
       "maxNss":2,
       "model":"VE32Z",
-      "phyMode":7
-    },
-    {
-      "allowedChWidth":[
-        2
-      ],
-      "configurable":1,
-      "coverageCliRate":100000000.0,
-      "coverageOptTarget":130000000.0,
-      "freqBand":"5G",
-      "jointOptTarget":130000000.0,
-      "maxChWidth":2,
-      "maxMcs":9,
-      "maxNss":4,
-      "model":"VE332Z",
-      "phyMode":9
-    },
-    {
-      "allowedChWidth":[
-        0,
-        1
-      ],
-      "configurable":1,
-      "coverageCliRate":90000000.0,
-      "coverageOptTarget":10000000.0,
-      "freqBand":"2.4G",
-      "jointOptTarget":10000000.0,
-      "maxChWidth":1,
-      "maxMcs":15,
-      "maxNss":2,
-      "model":"VE332Z",
       "phyMode":7
     },
     {
@@ -2223,6 +2454,37 @@
         2
       ],
       "configurable":1,
+      "coverageCliRate":137500000.0,
+      "coverageOptTarget":170000000.0,
+      "freqBand":"5G",
+      "jointOptTarget":170000000.0,
+      "maxChWidth":2,
+      "maxMcs":9,
+      "maxNss":4,
+      "model":"VFSC_VOX30_IT",
+      "phyMode":9
+    },
+    {
+      "allowedChWidth":[
+        0,
+        1
+      ],
+      "configurable":1,
+      "coverageCliRate":150000000.0,
+      "coverageOptTarget":20000000.0,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":23,
+      "maxNss":3,
+      "model":"VFSC_VOX30_IT",
+      "phyMode":7
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "configurable":1,
       "coverageCliRate":175000000.0,
       "coverageOptTarget":500000000.0,
       "freqBand":"5GL",
@@ -2293,6 +2555,37 @@
       "maxMcs":15,
       "maxNss":2,
       "model":"WNXE12AWR",
+      "phyMode":7
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "configurable":1,
+      "coverageCliRate":137500000.0,
+      "coverageOptTarget":170000000.0,
+      "freqBand":"5G",
+      "jointOptTarget":170000000.0,
+      "maxChWidth":2,
+      "maxMcs":9,
+      "maxNss":4,
+      "model":"VFSC_H500S_ES",
+      "phyMode":9
+    },
+    {
+      "allowedChWidth":[
+        0,
+        1
+      ],
+      "configurable":1,
+      "coverageCliRate":150000000.0,
+      "coverageOptTarget":20000000.0,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":15,
+      "maxNss":2,
+      "model":"VFSC_H500S_ES",
       "phyMode":7
     },
     {
@@ -2501,6 +2794,99 @@
         2
       ],
       "configurable":1,
+      "coverageCliRate":100000000.0,
+      "coverageOptTarget":130000000.0,
+      "freqBand":"5G",
+      "jointOptTarget":130000000.0,
+      "maxChWidth":2,
+      "maxMcs":9,
+      "maxNss":4,
+      "model":"RAC2V1S",
+      "phyMode":9
+    },
+    {
+      "allowedChWidth":[
+        0,
+        1
+      ],
+      "configurable":1,
+      "coverageCliRate":90000000.0,
+      "coverageOptTarget":10000000.0,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":23,
+      "maxNss":3,
+      "model":"RAC2V1S",
+      "phyMode":7
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "configurable":1,
+      "coverageCliRate":187500000.0,
+      "coverageOptTarget":200000000.0,
+      "freqBand":"5G",
+      "jointOptTarget":200000000.0,
+      "maxChWidth":2,
+      "maxMcs":9,
+      "maxNss":4,
+      "model":"SR203",
+      "phyMode":9
+    },
+    {
+      "allowedChWidth":[
+        0,
+        1
+      ],
+      "configurable":1,
+      "coverageCliRate":90000000.0,
+      "coverageOptTarget":10000000.0,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":31,
+      "maxNss":4,
+      "model":"SR203",
+      "phyMode":7
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "configurable":1,
+      "coverageCliRate":100000000.0,
+      "coverageOptTarget":130000000.0,
+      "freqBand":"5G",
+      "jointOptTarget":130000000.0,
+      "maxChWidth":2,
+      "maxMcs":9,
+      "maxNss":4,
+      "model":"RAC2V1K",
+      "phyMode":9
+    },
+    {
+      "allowedChWidth":[
+        0,
+        1
+      ],
+      "configurable":1,
+      "coverageCliRate":90000000.0,
+      "coverageOptTarget":10000000.0,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":31,
+      "maxNss":4,
+      "model":"RAC2V1K",
+      "phyMode":7
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "configurable":1,
       "coverageCliRate":137500000.0,
       "coverageOptTarget":170000000.0,
       "freqBand":"5G",
@@ -2508,7 +2894,7 @@
       "maxChWidth":2,
       "maxMcs":9,
       "maxNss":3,
-      "model":"RAC2V1S",
+      "model":"VFSC_VOX25_ES",
       "phyMode":9
     },
     {
@@ -2522,9 +2908,9 @@
       "freqBand":"2.4G",
       "jointOptTarget":10000000.0,
       "maxChWidth":1,
-      "maxMcs":23,
-      "maxNss":3,
-      "model":"RAC2V1S",
+      "maxMcs":15,
+      "maxNss":2,
+      "model":"VFSC_VOX25_ES",
       "phyMode":7
     },
     {
@@ -2594,6 +2980,37 @@
         2
       ],
       "configurable":1,
+      "coverageCliRate":187500000.0,
+      "coverageOptTarget":200000000.0,
+      "freqBand":"5G",
+      "jointOptTarget":200000000.0,
+      "maxChWidth":2,
+      "maxMcs":9,
+      "maxNss":4,
+      "model":"SR201",
+      "phyMode":9
+    },
+    {
+      "allowedChWidth":[
+        0,
+        1
+      ],
+      "configurable":1,
+      "coverageCliRate":90000000.0,
+      "coverageOptTarget":10000000.0,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":31,
+      "maxNss":4,
+      "model":"SR201",
+      "phyMode":7
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "configurable":1,
       "coverageCliRate":100000000.0,
       "coverageOptTarget":130000000.0,
       "freqBand":"5G",
@@ -2618,6 +3035,37 @@
       "maxMcs":15,
       "maxNss":2,
       "model":"PP302Z-EX",
+      "phyMode":7
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "configurable":1,
+      "coverageCliRate":100000000.0,
+      "coverageOptTarget":130000000.0,
+      "freqBand":"5G",
+      "jointOptTarget":130000000.0,
+      "maxChWidth":2,
+      "maxMcs":9,
+      "maxNss":4,
+      "model":"RAC2V1A",
+      "phyMode":9
+    },
+    {
+      "allowedChWidth":[
+        0,
+        1
+      ],
+      "configurable":1,
+      "coverageCliRate":90000000.0,
+      "coverageOptTarget":10000000.0,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":23,
+      "maxNss":3,
+      "model":"RAC2V1A",
       "phyMode":7
     },
     {
@@ -2649,6 +3097,37 @@
       "maxMcs":15,
       "maxNss":2,
       "model":"CGM4140COM",
+      "phyMode":7
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "configurable":1,
+      "coverageCliRate":100000000.0,
+      "coverageOptTarget":130000000.0,
+      "freqBand":"5G",
+      "jointOptTarget":130000000.0,
+      "maxChWidth":2,
+      "maxMcs":9,
+      "maxNss":2,
+      "model":"SE401",
+      "phyMode":9
+    },
+    {
+      "allowedChWidth":[
+        0,
+        1
+      ],
+      "configurable":1,
+      "coverageCliRate":90000000.0,
+      "coverageOptTarget":10000000.0,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":15,
+      "maxNss":2,
+      "model":"SE401",
       "phyMode":7
     },
     {
@@ -2961,7 +3440,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"HH2000",
       "noise":-86.0,
@@ -2972,7 +3451,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"HH2000",
       "noise":-86.0,
@@ -2983,7 +3462,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"HH2000",
       "noise":-86.0,
@@ -2994,7 +3473,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"HH2000",
       "noise":-86.0,
@@ -3016,7 +3495,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"TG2492LG",
       "noise":-86.0,
@@ -3027,7 +3506,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"TG2492LG",
       "noise":-86.0,
@@ -3038,7 +3517,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"TG2492LG",
       "noise":-86.0,
@@ -3060,7 +3539,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"DPC3941T",
       "noise":-91.77121254719663,
@@ -3071,7 +3550,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"DPC3941T",
       "noise":-91.77121254719663,
@@ -3082,7 +3561,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"DPC3941T",
       "noise":-91.77121254719663,
@@ -3093,7 +3572,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"DPC3941T",
       "noise":-90.77121254719663,
@@ -3115,7 +3594,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -3126,7 +3605,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -3137,7 +3616,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -3148,7 +3627,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -3170,7 +3649,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
@@ -3181,7 +3660,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
@@ -3192,7 +3671,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
@@ -3203,7 +3682,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
@@ -3225,7 +3704,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -3236,7 +3715,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -3247,7 +3726,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -3258,13 +3737,123 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
       "ptxMngPacket":20.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"CGM4331COM",
+      "noise":-92.2,
+      "noiseMngPacket":-86.2,
+      "ptx":25.2,
+      "ptxMngPacket":25.2,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"CGM4331COM",
+      "noise":-86.1,
+      "noiseMngPacket":-86.1,
+      "ptx":21.3,
+      "ptxMngPacket":21.3,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"CGM4331COM",
+      "noise":-84.5,
+      "noiseMngPacket":-84.5,
+      "ptx":21.8,
+      "ptxMngPacket":21.8,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"CGM4331COM",
+      "noise":-84.5,
+      "noiseMngPacket":-84.5,
+      "ptx":20.9,
+      "ptxMngPacket":20.9,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"CGM4331COM",
+      "noise":-84.4,
+      "noiseMngPacket":-84.4,
+      "ptx":20.8,
+      "ptxMngPacket":20.8,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"VE332Z",
+      "noise":-92.0,
+      "noiseMngPacket":-95.0,
+      "ptx":20.0,
+      "ptxMngPacket":30,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"VE332Z",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":30.0,
+      "ptxMngPacket":30,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"VE332Z",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":30.0,
+      "ptxMngPacket":30,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"VE332Z",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":30.0,
+      "ptxMngPacket":30,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"VE332Z",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":30.0,
+      "ptxMngPacket":30,
       "regulatoryDomain":"NA"
     },
     {
@@ -3280,7 +3869,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"FAST5260",
       "noise":-86.0,
@@ -3291,7 +3880,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"FAST5260",
       "noise":-86.0,
@@ -3302,7 +3891,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"FAST5260",
       "noise":-86.0,
@@ -3313,7 +3902,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"FAST5260",
       "noise":-86.0,
@@ -3335,7 +3924,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"CH7465CE",
       "noise":-86.0,
@@ -3346,7 +3935,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"CH7465CE",
       "noise":-86.0,
@@ -3357,7 +3946,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"CH7465CE",
       "noise":-86.0,
@@ -3379,7 +3968,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5GL",
       "model":"defaultAp",
       "noise":-86.0,
@@ -3390,7 +3979,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5GL",
       "model":"defaultAp",
       "noise":-86.0,
@@ -3401,7 +3990,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5GU",
       "model":"defaultAp",
       "noise":-86.0,
@@ -3412,7 +4001,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5GU",
       "model":"defaultAp",
       "noise":-86.0,
@@ -3423,7 +4012,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -3434,7 +4023,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -3445,7 +4034,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -3456,7 +4045,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -3478,7 +4067,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"VE32Z",
       "noise":-86.0,
@@ -3489,7 +4078,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"VE32Z",
       "noise":-86.0,
@@ -3500,7 +4089,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"VE32Z",
       "noise":-86.0,
@@ -3511,64 +4100,9 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"VE32Z",
-      "noise":-86.0,
-      "noiseMngPacket":-98.0,
-      "ptx":30.0,
-      "ptxMngPacket":30,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":0,
-      "channel":1,
-      "freqBand":"2.4G",
-      "model":"VE332Z",
-      "noise":-92.0,
-      "noiseMngPacket":-95.0,
-      "ptx":20.0,
-      "ptxMngPacket":30,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
-      "channel":36,
-      "freqBand":"5G",
-      "model":"VE332Z",
-      "noise":-86.0,
-      "noiseMngPacket":-98.0,
-      "ptx":30.0,
-      "ptxMngPacket":30,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
-      "channel":52,
-      "freqBand":"5G",
-      "model":"VE332Z",
-      "noise":-86.0,
-      "noiseMngPacket":-98.0,
-      "ptx":30.0,
-      "ptxMngPacket":30,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
-      "channel":100,
-      "freqBand":"5G",
-      "model":"VE332Z",
-      "noise":-86.0,
-      "noiseMngPacket":-98.0,
-      "ptx":30.0,
-      "ptxMngPacket":30,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
-      "channel":149,
-      "freqBand":"5G",
-      "model":"VE332Z",
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":30.0,
@@ -3588,7 +4122,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
@@ -3599,7 +4133,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
@@ -3610,7 +4144,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
@@ -3621,7 +4155,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
@@ -3643,7 +4177,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5GL",
       "model":"PP213X-GW",
       "noise":-86.0,
@@ -3654,7 +4188,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5GL",
       "model":"PP213X-GW",
       "noise":-86.0,
@@ -3665,7 +4199,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5GU",
       "model":"PP213X-GW",
       "noise":-86.0,
@@ -3676,7 +4210,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5GU",
       "model":"PP213X-GW",
       "noise":-86.0,
@@ -3698,7 +4232,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5GL",
       "model":"PP213X-EX",
       "noise":-86.0,
@@ -3709,7 +4243,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5GL",
       "model":"PP213X-EX",
       "noise":-86.0,
@@ -3720,7 +4254,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5GU",
       "model":"PP213X-EX",
       "noise":-86.0,
@@ -3731,7 +4265,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5GU",
       "model":"PP213X-EX",
       "noise":-86.0,
@@ -3753,7 +4287,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -3764,7 +4298,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -3775,7 +4309,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -3786,7 +4320,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -3808,7 +4342,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"TG3482G",
       "noise":-84.0,
@@ -3819,7 +4353,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"TG3482G",
       "noise":-84.0,
@@ -3830,7 +4364,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"TG3482G",
       "noise":-84.0,
@@ -3841,13 +4375,57 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"TG3482G",
       "noise":-84.0,
       "noiseMngPacket":-96.0,
       "ptx":26.0,
       "ptxMngPacket":26.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"VFSC_VOX30_IT",
+      "noise":-92.0,
+      "noiseMngPacket":-96.75488750216347,
+      "ptx":31.0,
+      "ptxMngPacket":31.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"VFSC_VOX30_IT",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":31.0,
+      "ptxMngPacket":31.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"VFSC_VOX30_IT",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":31.0,
+      "ptxMngPacket":31.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"VFSC_VOX30_IT",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":31.0,
+      "ptxMngPacket":31.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -3863,7 +4441,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5GL",
       "model":"PP213X",
       "noise":-86.0,
@@ -3874,7 +4452,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5GL",
       "model":"PP213X",
       "noise":-86.0,
@@ -3885,7 +4463,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5GU",
       "model":"PP213X",
       "noise":-86.0,
@@ -3896,7 +4474,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5GU",
       "model":"PP213X",
       "noise":-86.0,
@@ -3918,7 +4496,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -3929,7 +4507,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -3940,7 +4518,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -3951,13 +4529,57 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
       "noiseMngPacket":-82.0,
       "ptx":19.9,
       "ptxMngPacket":19.9,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"VFSC_H500S_ES",
+      "noise":-92.0,
+      "noiseMngPacket":-95.0,
+      "ptx":31.0,
+      "ptxMngPacket":31.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"VFSC_H500S_ES",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":16.0,
+      "ptxMngPacket":31.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"VFSC_H500S_ES",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":16.0,
+      "ptxMngPacket":31.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"VFSC_H500S_ES",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":21.0,
+      "ptxMngPacket":31.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -3973,7 +4595,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"DPC3939withPods",
       "noise":-86.0,
@@ -3984,7 +4606,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"DPC3939withPods",
       "noise":-86.0,
@@ -3995,7 +4617,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"DPC3939withPods",
       "noise":-86.0,
@@ -4006,7 +4628,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"DPC3939withPods",
       "noise":-86.0,
@@ -4028,7 +4650,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5GL",
       "model":"PP203X",
       "noise":-86.0,
@@ -4039,7 +4661,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5GL",
       "model":"PP203X",
       "noise":-86.0,
@@ -4050,7 +4672,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5GU",
       "model":"PP203X",
       "noise":-86.0,
@@ -4061,7 +4683,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5GU",
       "model":"PP203X",
       "noise":-86.0,
@@ -4083,7 +4705,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
@@ -4094,7 +4716,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
@@ -4105,7 +4727,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
@@ -4116,7 +4738,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
@@ -4138,7 +4760,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"ET-WV525",
       "noise":-86.0,
@@ -4149,7 +4771,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"ET-WV525",
       "noise":-86.0,
@@ -4160,7 +4782,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"ET-WV525",
       "noise":-86.0,
@@ -4171,7 +4793,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"ET-WV525",
       "noise":-86.0,
@@ -4193,7 +4815,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"ET-WV520",
       "noise":-86.0,
@@ -4204,7 +4826,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"ET-WV520",
       "noise":-86.0,
@@ -4215,7 +4837,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"ET-WV520",
       "noise":-86.0,
@@ -4226,7 +4848,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"ET-WV520",
       "noise":-86.0,
@@ -4248,7 +4870,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"ONTL3",
       "noise":-86.0,
@@ -4259,7 +4881,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"ONTL3",
       "noise":-86.0,
@@ -4270,7 +4892,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"ONTL3",
       "noise":-86.0,
@@ -4281,7 +4903,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"ONTL3",
       "noise":-86.0,
@@ -4297,52 +4919,206 @@
       "model":"RAC2V1S",
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
-      "ptx":22.7,
-      "ptxMngPacket":23,
+      "ptx":16.75488750216347,
+      "ptxMngPacket":21.75488750216347,
       "regulatoryDomain":"NA"
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"RAC2V1S",
       "noise":-86.0,
-      "noiseMngPacket":-96.75488750216347,
-      "ptx":13.84,
-      "ptxMngPacket":23,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":23.0,
       "regulatoryDomain":"NA"
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"RAC2V1S",
       "noise":-86.0,
-      "noiseMngPacket":-96.75488750216347,
-      "ptx":13.84,
-      "ptxMngPacket":23,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":23.0,
       "regulatoryDomain":"NA"
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"RAC2V1S",
       "noise":-86.0,
-      "noiseMngPacket":-96.75488750216347,
-      "ptx":13.84,
-      "ptxMngPacket":23,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":23.0,
       "regulatoryDomain":"NA"
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"RAC2V1S",
       "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"SR203",
+      "noise":-99.0,
+      "noiseMngPacket":-93.0,
+      "ptx":23.5,
+      "ptxMngPacket":23.5,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"SR203",
+      "noise":-85.0,
+      "noiseMngPacket":-85.0,
+      "ptx":25.0,
+      "ptxMngPacket":25.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"SR203",
+      "noise":-85.0,
+      "noiseMngPacket":-85.0,
+      "ptx":25.0,
+      "ptxMngPacket":25.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"SR203",
+      "noise":-85.0,
+      "noiseMngPacket":-85.0,
+      "ptx":24.5,
+      "ptxMngPacket":24.5,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"SR203",
+      "noise":-85.0,
+      "noiseMngPacket":-85.0,
+      "ptx":24.5,
+      "ptxMngPacket":24.5,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"RAC2V1K",
+      "noise":-92.0,
+      "noiseMngPacket":-98.0,
+      "ptx":18.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"VFSC_VOX25_ES",
+      "noise":-92.0,
+      "noiseMngPacket":-95.0,
+      "ptx":31.0,
+      "ptxMngPacket":31.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"VFSC_VOX25_ES",
+      "noise":-86.0,
       "noiseMngPacket":-96.75488750216347,
-      "ptx":13.84,
-      "ptxMngPacket":23,
+      "ptx":31.0,
+      "ptxMngPacket":31.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"VFSC_VOX25_ES",
+      "noise":-86.0,
+      "noiseMngPacket":-96.75488750216347,
+      "ptx":31.0,
+      "ptxMngPacket":31.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"VFSC_VOX25_ES",
+      "noise":-86.0,
+      "noiseMngPacket":-96.75488750216347,
+      "ptx":31.0,
+      "ptxMngPacket":31.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -4358,7 +5134,7 @@
     },
     {
       "chWidth":1,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"DPC3939",
       "noise":-89.0,
@@ -4369,7 +5145,7 @@
     },
     {
       "chWidth":1,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"DPC3939",
       "noise":-89.0,
@@ -4380,7 +5156,7 @@
     },
     {
       "chWidth":1,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"DPC3939",
       "noise":-89.0,
@@ -4391,7 +5167,7 @@
     },
     {
       "chWidth":1,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"DPC3939",
       "noise":-89.0,
@@ -4413,7 +5189,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -4424,7 +5200,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -4435,7 +5211,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -4446,13 +5222,68 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
       "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"SR201",
+      "noise":-99.0,
+      "noiseMngPacket":-93.0,
+      "ptx":23.5,
+      "ptxMngPacket":23.5,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"SR201",
+      "noise":-85.0,
+      "noiseMngPacket":-85.0,
+      "ptx":25.0,
+      "ptxMngPacket":25.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"SR201",
+      "noise":-85.0,
+      "noiseMngPacket":-85.0,
+      "ptx":25.0,
+      "ptxMngPacket":25.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"SR201",
+      "noise":-85.0,
+      "noiseMngPacket":-85.0,
+      "ptx":24.5,
+      "ptxMngPacket":24.5,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"SR201",
+      "noise":-85.0,
+      "noiseMngPacket":-85.0,
+      "ptx":24.5,
+      "ptxMngPacket":24.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -4468,7 +5299,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -4479,7 +5310,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -4490,7 +5321,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -4501,9 +5332,64 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP302Z-EX",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"RAC2V1A",
+      "noise":-92.0,
+      "noiseMngPacket":-96.75488750216347,
+      "ptx":16.75488750216347,
+      "ptxMngPacket":21.75488750216347,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
@@ -4523,7 +5409,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"CGM4140COM",
       "noise":-93,
@@ -4534,7 +5420,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"CGM4140COM",
       "noise":-93,
@@ -4545,7 +5431,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"CGM4140COM",
       "noise":-93,
@@ -4556,13 +5442,68 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"CGM4140COM",
       "noise":-93,
       "noiseMngPacket":-93,
       "ptx":26.0,
       "ptxMngPacket":26.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"SE401",
+      "noise":-90.0,
+      "noiseMngPacket":-87.0,
+      "ptx":15.6,
+      "ptxMngPacket":15.6,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
       "regulatoryDomain":"NA"
     },
     {
@@ -4578,7 +5519,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PX5001",
       "noise":-90.02059991327963,
@@ -4589,7 +5530,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PX5001",
       "noise":-90.02059991327963,
@@ -4600,7 +5541,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PX5001",
       "noise":-90.02059991327963,
@@ -4611,7 +5552,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PX5001",
       "noise":-90.02059991327963,
@@ -4633,7 +5574,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5GL",
       "model":"HH3000",
       "noise":-86.0,
@@ -4644,7 +5585,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5GL",
       "model":"HH3000",
       "noise":-86.0,
@@ -4655,7 +5596,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5GU",
       "model":"HH3000",
       "noise":-86.0,
@@ -4666,7 +5607,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5GU",
       "model":"HH3000",
       "noise":-86.0,
@@ -4688,7 +5629,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"SM-V520V",
       "noise":-86.0,
@@ -4699,7 +5640,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"SM-V520V",
       "noise":-86.0,
@@ -4710,7 +5651,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"SM-V520V",
       "noise":-86.0,
@@ -4721,7 +5662,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"SM-V520V",
       "noise":-86.0,
@@ -4743,7 +5684,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"BCP01",
       "noise":-90.02059991327963,
@@ -4754,7 +5695,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"BCP01",
       "noise":-90.02059991327963,
@@ -4765,7 +5706,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"BCP01",
       "noise":-90.02059991327963,
@@ -4776,7 +5717,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"BCP01",
       "noise":-90.02059991327963,
@@ -4798,7 +5739,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"TG1682G",
       "noise":-90.02059991327963,
@@ -4809,7 +5750,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"TG1682G",
       "noise":-90.02059991327963,
@@ -4820,7 +5761,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"TG1682G",
       "noise":-90.02059991327963,
@@ -4831,7 +5772,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"TG1682G",
       "noise":-90.02059991327963,
@@ -4853,7 +5794,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"ET-WV530",
       "noise":-86.0,
@@ -4864,7 +5805,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"ET-WV530",
       "noise":-86.0,
@@ -4875,7 +5816,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"ET-WV530",
       "noise":-86.0,
@@ -4886,7 +5827,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"ET-WV530",
       "noise":-86.0,
@@ -4908,7 +5849,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -4919,7 +5860,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -4930,7 +5871,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -4941,7 +5882,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -4963,7 +5904,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"ET-WV535",
       "noise":-86.0,
@@ -4974,7 +5915,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"ET-WV535",
       "noise":-86.0,
@@ -4985,7 +5926,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"ET-WV535",
       "noise":-86.0,
@@ -4996,7 +5937,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"ET-WV535",
       "noise":-86.0,
@@ -5018,7 +5959,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
@@ -5029,7 +5970,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
@@ -5040,7 +5981,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
@@ -5051,7 +5992,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
@@ -5073,7 +6014,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
@@ -5084,7 +6025,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
@@ -5095,7 +6036,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
@@ -5106,13 +6047,68 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
       "noiseMngPacket":-85.0,
       "ptx":15.0,
       "ptxMngPacket":15.0,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"SE401",
+      "noise":-90.0,
+      "noiseMngPacket":-87.0,
+      "ptx":15.6,
+      "ptxMngPacket":15.6,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
       "regulatoryDomain":"US"
     },
     {
@@ -5128,7 +6124,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -5139,7 +6135,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -5150,7 +6146,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -5161,7 +6157,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -5183,7 +6179,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -5194,7 +6190,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -5205,7 +6201,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -5216,7 +6212,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -5238,7 +6234,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
@@ -5249,7 +6245,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
@@ -5260,7 +6256,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
@@ -5271,13 +6267,68 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
       "noiseMngPacket":-85.0,
       "ptx":15.0,
       "ptxMngPacket":15.0,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"RAC2V1S",
+      "noise":-92.0,
+      "noiseMngPacket":-96.75488750216347,
+      "ptx":16.25488750216347,
+      "ptxMngPacket":19.25488750216347,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"RAC2V1S",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"RAC2V1S",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"RAC2V1S",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"RAC2V1S",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
       "regulatoryDomain":"US"
     },
     {
@@ -5293,7 +6344,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
@@ -5304,7 +6355,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
@@ -5315,7 +6366,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
@@ -5326,13 +6377,68 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
       "ptxMngPacket":20.0,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"RAC2V1K",
+      "noise":-92.0,
+      "noiseMngPacket":-98.0,
+      "ptx":17.5,
+      "ptxMngPacket":20.5,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
       "regulatoryDomain":"US"
     },
     {
@@ -5348,7 +6454,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -5359,7 +6465,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -5370,7 +6476,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -5381,7 +6487,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -5403,7 +6509,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -5414,7 +6520,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -5425,7 +6531,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -5436,7 +6542,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -5458,7 +6564,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -5469,7 +6575,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -5480,7 +6586,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -5491,7 +6597,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -5513,7 +6619,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -5524,7 +6630,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -5535,7 +6641,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -5546,7 +6652,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -5568,7 +6674,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -5579,7 +6685,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -5590,7 +6696,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -5601,7 +6707,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -5623,7 +6729,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5GL",
       "model":"defaultAp",
       "noise":-86.0,
@@ -5634,7 +6740,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5GL",
       "model":"defaultAp",
       "noise":-86.0,
@@ -5645,7 +6751,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5GU",
       "model":"defaultAp",
       "noise":-86.0,
@@ -5656,7 +6762,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5GU",
       "model":"defaultAp",
       "noise":-86.0,
@@ -5667,7 +6773,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -5678,7 +6784,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -5689,7 +6795,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -5700,7 +6806,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -5722,7 +6828,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
@@ -5733,7 +6839,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
@@ -5744,7 +6850,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
@@ -5755,13 +6861,68 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
       "ptxMngPacket":20.0,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"RAC2V1A",
+      "noise":-92.0,
+      "noiseMngPacket":-96.75488750216347,
+      "ptx":16.25488750216347,
+      "ptxMngPacket":19.25488750216347,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"US"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
       "regulatoryDomain":"US"
     },
     {
@@ -5777,7 +6938,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
@@ -5788,7 +6949,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
@@ -5799,7 +6960,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
@@ -5810,13 +6971,68 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
       "noiseMngPacket":-85.0,
       "ptx":15.0,
       "ptxMngPacket":15.0,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"SE401",
+      "noise":-90.0,
+      "noiseMngPacket":-87.0,
+      "ptx":15.6,
+      "ptxMngPacket":15.6,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
       "regulatoryDomain":"CA"
     },
     {
@@ -5832,7 +7048,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -5843,7 +7059,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -5854,7 +7070,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -5865,7 +7081,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -5887,7 +7103,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -5898,7 +7114,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -5909,7 +7125,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -5920,7 +7136,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -5942,7 +7158,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
@@ -5953,7 +7169,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
@@ -5964,7 +7180,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
@@ -5975,13 +7191,68 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
       "noiseMngPacket":-85.0,
       "ptx":15.0,
       "ptxMngPacket":15.0,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"RAC2V1S",
+      "noise":-92.0,
+      "noiseMngPacket":-96.75488750216347,
+      "ptx":16.25488750216347,
+      "ptxMngPacket":19.25488750216347,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"RAC2V1S",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"RAC2V1S",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"RAC2V1S",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"RAC2V1S",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -5997,7 +7268,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
@@ -6008,7 +7279,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
@@ -6019,7 +7290,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
@@ -6030,13 +7301,68 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
       "ptxMngPacket":20.0,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"RAC2V1K",
+      "noise":-92.0,
+      "noiseMngPacket":-98.0,
+      "ptx":17.5,
+      "ptxMngPacket":20.5,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -6052,7 +7378,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -6063,7 +7389,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -6074,7 +7400,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -6085,7 +7411,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -6107,7 +7433,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -6118,7 +7444,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -6129,7 +7455,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -6140,7 +7466,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -6162,7 +7488,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -6173,7 +7499,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -6184,7 +7510,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -6195,7 +7521,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -6217,7 +7543,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -6228,7 +7554,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -6239,7 +7565,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -6250,7 +7576,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -6272,7 +7598,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -6283,7 +7609,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -6294,7 +7620,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -6305,7 +7631,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -6327,7 +7653,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5GL",
       "model":"defaultAp",
       "noise":-86.0,
@@ -6338,7 +7664,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5GL",
       "model":"defaultAp",
       "noise":-86.0,
@@ -6349,7 +7675,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5GU",
       "model":"defaultAp",
       "noise":-86.0,
@@ -6360,7 +7686,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5GU",
       "model":"defaultAp",
       "noise":-86.0,
@@ -6371,7 +7697,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -6382,7 +7708,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -6393,7 +7719,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -6404,7 +7730,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -6426,7 +7752,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
@@ -6437,7 +7763,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
@@ -6448,7 +7774,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
@@ -6459,13 +7785,68 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
       "ptxMngPacket":20.0,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"RAC2V1A",
+      "noise":-92.0,
+      "noiseMngPacket":-96.75488750216347,
+      "ptx":16.25488750216347,
+      "ptxMngPacket":19.25488750216347,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"CA"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":19.0,
+      "ptxMngPacket":23.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -6481,7 +7862,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
@@ -6492,7 +7873,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
@@ -6503,7 +7884,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
@@ -6514,13 +7895,68 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"HIVE-2200",
       "noise":-82.0,
       "noiseMngPacket":-85.0,
       "ptx":15.0,
       "ptxMngPacket":15.0,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"SE401",
+      "noise":-90.0,
+      "noiseMngPacket":-87.0,
+      "ptx":15.6,
+      "ptxMngPacket":15.6,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"SE401",
+      "noise":-79.0,
+      "noiseMngPacket":-82.0,
+      "ptx":19.9,
+      "ptxMngPacket":19.9,
       "regulatoryDomain":"JP"
     },
     {
@@ -6536,7 +7972,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -6547,7 +7983,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -6558,7 +7994,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -6569,7 +8005,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
@@ -6591,7 +8027,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -6602,7 +8038,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -6613,7 +8049,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -6624,7 +8060,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"AP.DK07",
       "noise":-86.0,
@@ -6646,7 +8082,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
@@ -6657,7 +8093,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
@@ -6668,7 +8104,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
@@ -6679,13 +8115,68 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"HIXE12AWR",
       "noise":-82.0,
       "noiseMngPacket":-85.0,
       "ptx":15.0,
       "ptxMngPacket":15.0,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"RAC2V1S",
+      "noise":-92.0,
+      "noiseMngPacket":-96.75488750216347,
+      "ptx":16.75488750216347,
+      "ptxMngPacket":18.25488750216347,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"RAC2V1S",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":20.0,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"RAC2V1S",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":20.0,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"RAC2V1S",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":21.0,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"RAC2V1S",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":21.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -6701,7 +8192,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
@@ -6712,7 +8203,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
@@ -6723,7 +8214,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
@@ -6734,13 +8225,68 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"Plume Pod v1.0",
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
       "ptxMngPacket":18.0,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"RAC2V1K",
+      "noise":-92.0,
+      "noiseMngPacket":-98.0,
+      "ptx":18.0,
+      "ptxMngPacket":19.5,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":20.0,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":20.0,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":21.0,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"RAC2V1K",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":21.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -6756,7 +8302,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -6767,7 +8313,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -6778,7 +8324,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -6789,7 +8335,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"WNXE12AWR",
       "noise":-79.0,
@@ -6811,7 +8357,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -6822,7 +8368,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -6833,7 +8379,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -6844,7 +8390,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"SAQ4-CC1",
       "noise":-86.0,
@@ -6866,7 +8412,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -6877,7 +8423,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -6888,7 +8434,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -6899,7 +8445,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
@@ -6921,7 +8467,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -6932,7 +8478,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -6943,7 +8489,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -6954,7 +8500,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"XE1V2W",
       "noise":-79.0,
@@ -6976,7 +8522,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -6987,7 +8533,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -6998,7 +8544,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -7009,7 +8555,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
@@ -7031,7 +8577,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5GL",
       "model":"defaultAp",
       "noise":-86.0,
@@ -7042,7 +8588,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5GL",
       "model":"defaultAp",
       "noise":-86.0,
@@ -7053,7 +8599,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5GU",
       "model":"defaultAp",
       "noise":-86.0,
@@ -7064,7 +8610,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5GU",
       "model":"defaultAp",
       "noise":-86.0,
@@ -7075,7 +8621,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -7086,7 +8632,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -7097,7 +8643,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -7108,7 +8654,7 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"defaultAp",
       "noise":-86.0,
@@ -7130,7 +8676,7 @@
     },
     {
       "chWidth":2,
-      "channel":36,
+      "channel":44,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
@@ -7141,7 +8687,7 @@
     },
     {
       "chWidth":2,
-      "channel":52,
+      "channel":60,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
@@ -7152,7 +8698,7 @@
     },
     {
       "chWidth":2,
-      "channel":100,
+      "channel":108,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
@@ -7163,15 +8709,70 @@
     },
     {
       "chWidth":2,
-      "channel":149,
+      "channel":157,
       "freqBand":"5G",
       "model":"PP152X",
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
       "ptxMngPacket":18.0,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"RAC2V1A",
+      "noise":-92.0,
+      "noiseMngPacket":-96.75488750216347,
+      "ptx":16.75488750216347,
+      "ptxMngPacket":18.25488750216347,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":20.0,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":20.0,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":21.0,
+      "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5G",
+      "model":"RAC2V1A",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
+      "ptxMngPacket":21.0,
       "regulatoryDomain":"JP"
     }
   ],
-  "version":"1.1"
+  "version":"1.2"
 }
