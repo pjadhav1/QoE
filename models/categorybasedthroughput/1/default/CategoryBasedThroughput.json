@@ -11,7 +11,7 @@
    "activeThroughputNeed": 3.0
  }, {
    "throughputClass": "powerpod",
-   "subCategories": ["pp302z", "ve32z", "ve332z"],
+   "subCategories": ["pp302z", "ve32z", "ve332z", "owa3111"],
    "idleThroughputNeed": 150.0,
    "activeThroughputNeed": 450.0
  }, {
