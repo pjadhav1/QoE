@@ -1,294 +1,453 @@
 {
   "name": "ClientDeviceSnrToRateTableEntries",
-  "snrToRateEntries": [{
-    "phyMode": 8,
-    "snr": 29.0,
-    "rate": 43.0
-  }, {
-    "phyMode": 8,
-    "snr": 20.0,
-    "rate": 21.0
-  }, {
-    "phyMode": 8,
-    "snr": 11.0,
-    "rate": 13.0
-  }, {
-    "phyMode": 8,
-    "snr": 31.0,
-    "rate": 47.0
-  }, {
-    "phyMode": 8,
-    "snr": 22.0,
-    "rate": 28.0
-  }, {
-    "phyMode": 8,
-    "snr": 13.0,
-    "rate": 18.0
-  }, {
-    "phyMode": 8,
-    "snr": 37.0,
-    "rate": 47.0
-  }, {
-    "phyMode": 8,
-    "snr": 27.0,
-    "rate": 36.0
-  }, {
-    "phyMode": 8,
-    "snr": 9.0,
-    "rate": 6.0
-  }, {
-    "phyMode": 8,
-    "snr": 39.0,
-    "rate": 47.0
-  }, {
-    "phyMode": 2,
-    "snr": 8.0,
-    "rate": 4.65
-  }, {
-    "phyMode": 2,
-    "snr": 11.0,
-    "rate": 8.53
-  }, {
-    "phyMode": 2,
-    "snr": 5.0,
-    "rate": 2.0
-  }, {
-    "phyMode": 5,
-    "snr": 20.0,
-    "rate": 19.01
-  }, {
-    "phyMode": 5,
-    "snr": 11.0,
-    "rate": 8.53
-  }, {
-    "phyMode": 5,
-    "snr": 5.0,
-    "rate": 4.65
-  }, {
-    "phyMode": 5,
-    "snr": 13.0,
-    "rate": 11.76
-  }, {
-    "phyMode": 5,
-    "snr": 25.0,
-    "rate": 22.35
-  }, {
-    "phyMode": 5,
-    "snr": 16.0,
-    "rate": 14.55
-  }, {
-    "phyMode": 5,
-    "snr": 27.0,
-    "rate": 24.03
-  }, {
-    "phyMode": 5,
-    "snr": 35.0,
-    "rate": 35.1
-  }, {
-    "phyMode": 4,
-    "snr": 20.0,
-    "rate": 19.01
-  }, {
-    "phyMode": 4,
-    "snr": 11.0,
-    "rate": 8.53
-  }, {
-    "phyMode": 4,
-    "snr": 5.0,
-    "rate": 4.65
-  }, {
-    "phyMode": 4,
-    "snr": 13.0,
-    "rate": 11.76
-  }, {
-    "phyMode": 4,
-    "snr": 25.0,
-    "rate": 22.35
-  }, {
-    "phyMode": 4,
-    "snr": 16.0,
-    "rate": 14.55
-  }, {
-    "phyMode": 4,
-    "snr": 27.0,
-    "rate": 24.03
-  }, {
-    "phyMode": 4,
-    "snr": 35.0,
-    "rate": 35.1
-  }, {
-    "phyMode": 7,
-    "snr": 29.0,
-    "rate": 43.0
-  }, {
-    "phyMode": 7,
-    "snr": 20.0,
-    "rate": 21.0
-  }, {
-    "phyMode": 7,
-    "snr": 11.0,
-    "rate": 13.0
-  }, {
-    "phyMode": 7,
-    "snr": 31.0,
-    "rate": 47.0
-  }, {
-    "phyMode": 7,
-    "snr": 22.0,
-    "rate": 28.0
-  }, {
-    "phyMode": 7,
-    "snr": 13.0,
-    "rate": 18.0
-  }, {
-    "phyMode": 7,
-    "snr": 27.0,
-    "rate": 36.0
-  }, {
-    "phyMode": 7,
-    "snr": 9.0,
-    "rate": 6.0
-  }, {
-    "phyMode": 1,
-    "snr": 8.0,
-    "rate": 6.62
-  }, {
-    "phyMode": 1,
-    "snr": 11.0,
-    "rate": 8.53
-  }, {
-    "phyMode": 1,
-    "snr": 5.0,
-    "rate": 4.65
-  }, {
-    "phyMode": 1,
-    "snr": 13.0,
-    "rate": 11.76
-  }, {
-    "phyMode": 1,
-    "snr": 16.0,
-    "rate": 14.55
-  }, {
-    "phyMode": 1,
-    "snr": 20.0,
-    "rate": 19.01
-  }, {
-    "phyMode": 1,
-    "snr": 25.0,
-    "rate": 22.35
-  }, {
-    "phyMode": 1,
-    "snr": 27.0,
-    "rate": 24.03
-  }, {
-    "phyMode": 1,
-    "snr": 35.0,
-    "rate": 35.1
-  },
-  {
-    "phyMode": 9,
-    "snr": 29.0,
-    "rate": 43.0
-  }, {
-    "phyMode": 9,
-    "snr": 20.0,
-    "rate": 21.0
-  }, {
-    "phyMode": 9,
-    "snr": 11.0,
-    "rate": 13.0
-  }, {
-    "phyMode": 9,
-    "snr": 31.0,
-    "rate": 50.0
-  }, {
-    "phyMode": 9,
-    "snr": 22.0,
-    "rate": 28.0
-  }, {
-    "phyMode": 9,
-    "snr": 13.0,
-    "rate": 18.0
-  }, {
-    "phyMode": 9,
-    "snr": 37.0,
-    "rate": 57.0
-  }, {
-    "phyMode": 9,
-    "snr": 27.0,
-    "rate": 36.0
-  }, {
-    "phyMode": 9,
-    "snr": 9.0,
-    "rate": 6.0
-  }, {
-    "phyMode": 9,
-    "snr": 39.0,
-    "rate": 64.0
-  }, {
-    "phyMode": 3,
-    "snr": 20.0,
-    "rate": 19.01
-  }, {
-    "phyMode": 3,
-    "snr": 11.0,
-    "rate": 8.53
-  }, {
-    "phyMode": 3,
-    "snr": 5.0,
-    "rate": 4.65
-  }, {
-    "phyMode": 3,
-    "snr": 13.0,
-    "rate": 11.76
-  }, {
-    "phyMode": 3,
-    "snr": 25.0,
-    "rate": 22.35
-  }, {
-    "phyMode": 3,
-    "snr": 16.0,
-    "rate": 14.55
-  }, {
-    "phyMode": 3,
-    "snr": 27.0,
-    "rate": 24.03
-  }, {
-    "phyMode": 3,
-    "snr": 35.0,
-    "rate": 35.1
-  }, {
-    "phyMode": 6,
-    "snr": 20.0,
-    "rate": 19.01
-  }, {
-    "phyMode": 6,
-    "snr": 11.0,
-    "rate": 8.53
-  }, {
-    "phyMode": 6,
-    "snr": 5.0,
-    "rate": 4.65
-  }, {
-    "phyMode": 6,
-    "snr": 13.0,
-    "rate": 11.76
-  }, {
-    "phyMode": 6,
-    "snr": 25.0,
-    "rate": 22.35
-  }, {
-    "phyMode": 6,
-    "snr": 16.0,
-    "rate": 14.55
-  }, {
-    "phyMode": 6,
-    "snr": 27.0,
-    "rate": 24.03
-  }, {
-    "phyMode": 6,
-    "snr": 35.0,
-    "rate": 35.1
-  }],
-  "version": "1.1"
+  "snrToRateEntries": [
+    {
+      "phyMode": 22,
+      "snr": 9.0,
+      "rate": 5.0
+    },
+    {
+      "phyMode": 22,
+      "snr": 14.0,
+      "rate": 10.0
+    },
+    {
+      "phyMode": 22,
+      "snr": 19.0,
+      "rate": 15.0
+    },
+    {
+      "phyMode": 22,
+      "snr": 23.0,
+      "rate": 21.0
+    },
+    {
+      "phyMode": 22,
+      "snr": 28.0,
+      "rate": 32.0
+    },
+    {
+      "phyMode": 22,
+      "snr": 33.0,
+      "rate": 42.0
+    },
+    {
+      "phyMode": 22,
+      "snr": 36.0,
+      "rate": 47.0
+    },
+    {
+      "phyMode": 22,
+      "snr": 40.0,
+      "rate": 52.0
+    },
+    {
+      "phyMode": 22,
+      "snr": 42.0,
+      "rate": 64.0
+    },
+    {
+      "phyMode": 22,
+      "snr": 45.0,
+      "rate": 70.0
+    },
+    {
+      "phyMode": 22,
+      "snr": 47.0,
+      "rate": 79.0
+    },
+    {
+      "phyMode": 22,
+      "snr": 49.0,
+      "rate": 87.0
+    },
+
+
+    {
+      "phyMode": 9,
+      "snr": 9.0,
+      "rate": 4.0
+    },
+    {
+      "phyMode": 9,
+      "snr": 14.0,
+      "rate": 8.0
+    },
+    {
+      "phyMode": 9,
+      "snr": 19.0,
+      "rate": 13.0
+    },
+    {
+      "phyMode": 9,
+      "snr": 23.0,
+      "rate": 17.0
+    },
+    {
+      "phyMode": 9,
+      "snr": 28.0,
+      "rate": 25.0
+    },
+    {
+      "phyMode": 9,
+      "snr": 33.0,
+      "rate": 34.0
+    },
+    {
+      "phyMode": 9,
+      "snr": 36.0,
+      "rate": 38.0
+    },
+    {
+      "phyMode": 9,
+      "snr": 40.0,
+      "rate": 42.0
+    },
+    {
+      "phyMode": 9,
+      "snr": 42.0,
+      "rate": 51.0
+    },
+    {
+      "phyMode": 9,
+      "snr": 45.0,
+      "rate": 59.0
+    },
+
+
+
+    {
+      "phyMode": 7,
+      "snr": 9.0,
+      "rate": 4.0
+    },
+    {
+      "phyMode": 7,
+      "snr": 14.0,
+      "rate": 8.0
+    },
+    {
+      "phyMode": 7,
+      "snr": 19.0,
+      "rate": 13.0
+    },
+    {
+      "phyMode": 7,
+      "snr": 23.0,
+      "rate": 17.0
+    },
+    {
+      "phyMode": 7,
+      "snr": 28.0,
+      "rate": 25.0
+    },
+    {
+      "phyMode": 7,
+      "snr": 33.0,
+      "rate": 34.0
+    },
+    {
+      "phyMode": 7,
+      "snr": 36.0,
+      "rate": 38.0
+    },
+    {
+      "phyMode": 7,
+      "snr": 40.0,
+      "rate": 42.0
+    },
+    {
+      "phyMode": 7,
+      "snr": 42.0,
+      "rate": 47.0
+    },
+    {
+      "phyMode": 7,
+      "snr": 45.0,
+      "rate": 47.0
+    },
+
+
+    {
+      "phyMode": 8,
+      "snr": 9.0,
+      "rate": 4.0
+    },
+    {
+      "phyMode": 8,
+      "snr": 14.0,
+      "rate": 8.0
+    },
+    {
+      "phyMode": 8,
+      "snr": 19.0,
+      "rate": 13.0
+    },
+    {
+      "phyMode": 8,
+      "snr": 23.0,
+      "rate": 17.0
+    },
+    {
+      "phyMode": 8,
+      "snr": 28.0,
+      "rate": 25.0
+    },
+    {
+      "phyMode": 8,
+      "snr": 33.0,
+      "rate": 34.0
+    },
+    {
+      "phyMode": 8,
+      "snr": 36.0,
+      "rate": 38.0
+    },
+    {
+      "phyMode": 8,
+      "snr": 40.0,
+      "rate": 42.0
+    },
+    {
+      "phyMode": 8,
+      "snr": 42.0,
+      "rate": 47.0
+    },
+    {
+      "phyMode": 8,
+      "snr": 45.0,
+      "rate": 47.0
+    },
+
+
+
+    {
+      "phyMode": 2,
+      "snr": 5.0,
+      "rate": 2.0
+    },
+    {
+      "phyMode": 2,
+      "snr": 9.0,
+      "rate": 4.0
+    },
+    {
+      "phyMode": 2,
+      "snr": 14.0,
+      "rate": 8.0
+    },
+
+
+    {
+      "phyMode": 1,
+      "snr": 5.0,
+      "rate": 4.0
+    },
+    {
+      "phyMode": 1,
+      "snr": 9.0,
+      "rate": 7.0
+    },
+    {
+      "phyMode": 1,
+      "snr": 14.0,
+      "rate": 11.0
+    },
+    {
+      "phyMode": 1,
+      "snr": 19.0,
+      "rate": 14.0
+    },
+    {
+      "phyMode": 1,
+      "snr": 23.0,
+      "rate": 19.0
+    },
+    {
+      "phyMode": 1,
+      "snr": 28.0,
+      "rate": 22.0
+    },
+    {
+      "phyMode": 1,
+      "snr": 33.0,
+      "rate": 24.0
+    },
+    {
+      "phyMode": 1,
+      "snr": 36.0,
+      "rate": 35.0
+    },
+
+
+    {
+      "phyMode": 3,
+      "snr": 5.0,
+      "rate": 4.0
+    },
+    {
+      "phyMode": 3,
+      "snr": 9.0,
+      "rate": 7.0
+    },
+    {
+      "phyMode": 3,
+      "snr": 14.0,
+      "rate": 11.0
+    },
+    {
+      "phyMode": 3,
+      "snr": 19.0,
+      "rate": 14.0
+    },
+    {
+      "phyMode": 3,
+      "snr": 23.0,
+      "rate": 19.0
+    },
+    {
+      "phyMode": 3,
+      "snr": 28.0,
+      "rate": 22.0
+    },
+    {
+      "phyMode": 3,
+      "snr": 33.0,
+      "rate": 24.0
+    },
+    {
+      "phyMode": 3,
+      "snr": 36.0,
+      "rate": 35.0
+    },
+
+
+
+    {
+      "phyMode": 4,
+      "snr": 5.0,
+      "rate": 4.0
+    },
+    {
+      "phyMode": 4,
+      "snr": 9.0,
+      "rate": 7.0
+    },
+    {
+      "phyMode": 4,
+      "snr": 14.0,
+      "rate": 11.0
+    },
+    {
+      "phyMode": 4,
+      "snr": 19.0,
+      "rate": 14.0
+    },
+    {
+      "phyMode": 4,
+      "snr": 23.0,
+      "rate": 19.0
+    },
+    {
+      "phyMode": 4,
+      "snr": 28.0,
+      "rate": 22.0
+    },
+    {
+      "phyMode": 4,
+      "snr": 33.0,
+      "rate": 24.0
+    },
+    {
+      "phyMode": 4,
+      "snr": 36.0,
+      "rate": 35.0
+    },
+
+
+
+    {
+      "phyMode": 5,
+      "snr": 5.0,
+      "rate": 4.0
+    },
+    {
+      "phyMode": 5,
+      "snr": 9.0,
+      "rate": 7.0
+    },
+    {
+      "phyMode": 5,
+      "snr": 14.0,
+      "rate": 11.0
+    },
+    {
+      "phyMode": 5,
+      "snr": 19.0,
+      "rate": 14.0
+    },
+    {
+      "phyMode": 5,
+      "snr": 23.0,
+      "rate": 19.0
+    },
+    {
+      "phyMode": 5,
+      "snr": 28.0,
+      "rate": 22.0
+    },
+    {
+      "phyMode": 5,
+      "snr": 33.0,
+      "rate": 24.0
+    },
+    {
+      "phyMode": 5,
+      "snr": 36.0,
+      "rate": 35.0
+    },
+
+
+    {
+      "phyMode": 6,
+      "snr": 5.0,
+      "rate": 4.0
+    },
+    {
+      "phyMode": 6,
+      "snr": 9.0,
+      "rate": 7.0
+    },
+    {
+      "phyMode": 6,
+      "snr": 14.0,
+      "rate": 11.0
+    },
+    {
+      "phyMode": 6,
+      "snr": 19.0,
+      "rate": 14.0
+    },
+    {
+      "phyMode": 6,
+      "snr": 23.0,
+      "rate": 19.0
+    },
+    {
+      "phyMode": 6,
+      "snr": 28.0,
+      "rate": 22.0
+    },
+    {
+      "phyMode": 6,
+      "snr": 33.0,
+      "rate": 24.0
+    },
+    {
+      "phyMode": 6,
+      "snr": 36.0,
+      "rate": 35.0
+    }
+  ],
+  "version": "1.2"
 }
