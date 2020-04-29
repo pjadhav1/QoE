@@ -64,52 +64,52 @@
 
 
     {
-      "phyMode": 9,
+      "phyMode": 19,
       "snr": 9.0,
       "rate": 4.0
     },
     {
-      "phyMode": 9,
+      "phyMode": 19,
       "snr": 14.0,
       "rate": 8.0
     },
     {
-      "phyMode": 9,
+      "phyMode": 19,
       "snr": 19.0,
       "rate": 13.0
     },
     {
-      "phyMode": 9,
+      "phyMode": 19,
       "snr": 23.0,
       "rate": 17.0
     },
     {
-      "phyMode": 9,
+      "phyMode": 19,
       "snr": 28.0,
       "rate": 25.0
     },
     {
-      "phyMode": 9,
+      "phyMode": 19,
       "snr": 33.0,
       "rate": 34.0
     },
     {
-      "phyMode": 9,
+      "phyMode": 19,
       "snr": 36.0,
       "rate": 38.0
     },
     {
-      "phyMode": 9,
+      "phyMode": 19,
       "snr": 40.0,
       "rate": 42.0
     },
     {
-      "phyMode": 9,
+      "phyMode": 19,
       "snr": 42.0,
       "rate": 51.0
     },
     {
-      "phyMode": 9,
+      "phyMode": 19,
       "snr": 45.0,
       "rate": 59.0
     },
@@ -449,5 +449,5 @@
       "rate": 35.0
     }
   ],
-  "version": "1.2"
+  "version": "1.3"
 }
