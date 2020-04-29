@@ -4475,7 +4475,7 @@
       "maxMcs":9,
       "maxNss":3,
       "model":"HH2000",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4508,7 +4508,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"SAC2V1S",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4541,7 +4541,7 @@
       "maxMcs":9,
       "maxNss":3,
       "model":"TG2492LG",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4574,7 +4574,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"RAC2V2S",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4607,7 +4607,7 @@
       "maxMcs":9,
       "maxNss":3,
       "model":"DPC3941T",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4640,7 +4640,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"AP.DK07",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4673,7 +4673,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"PP213X",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4689,7 +4689,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"PP213X",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4722,7 +4722,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"SAQ4-CC1",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4755,7 +4755,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"WHW0301",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4771,7 +4771,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"WHW0301",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4804,7 +4804,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"CGM4331COM",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4837,7 +4837,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"XE1V2W",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4870,7 +4870,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"VE332Z",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4903,7 +4903,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"AP5620W",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4919,7 +4919,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"AP5620W",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4952,7 +4952,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"SAC2V1A",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -4985,7 +4985,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"HH3000",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5001,7 +5001,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"HH3000",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5034,7 +5034,7 @@
       "maxMcs":9,
       "maxNss":3,
       "model":"FAST5260",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5067,7 +5067,7 @@
       "maxMcs":9,
       "maxNss":3,
       "model":"CH7465CE",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5100,7 +5100,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"SAC2V1K",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5133,7 +5133,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"WF-808",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5166,7 +5166,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"94908REF",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5199,7 +5199,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"TG3492LG",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5232,7 +5232,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"defaultAp",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5248,7 +5248,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"defaultAp",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5264,7 +5264,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"defaultAp",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5382,7 +5382,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"OWA3111",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5398,7 +5398,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"OWA3111",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5431,7 +5431,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"VE32Z",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5464,7 +5464,7 @@
       "maxMcs":9,
       "maxNss":3,
       "model":"RTROM01-2G",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5497,7 +5497,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"HIVE-2200",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5530,7 +5530,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"HC220-G1",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5580,7 +5580,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"PP213X-GW",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5596,7 +5596,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"PP213X-GW",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5612,7 +5612,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"TG3442DE",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5645,7 +5645,7 @@
       "maxMcs":9,
       "maxNss":3,
       "model":"EBM1892",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5678,7 +5678,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"TG3482G",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5711,7 +5711,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"VFSC_VOX30_IT",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5744,7 +5744,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"HIXE12AWR",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5777,7 +5777,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"HULK-WIFI6",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5810,7 +5810,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"CGA4233VDF",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5843,7 +5843,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"CM4652442",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5876,7 +5876,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"IPQ807X-AP-HK09",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5909,7 +5909,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"HIVE-2100",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -5942,7 +5942,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"VFSC_H500S_ES",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6008,7 +6008,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"PP203X",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6024,7 +6024,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"PP203X",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6057,7 +6057,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"LG203X",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6073,7 +6073,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"LG203X",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6106,7 +6106,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"PP152X",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6139,7 +6139,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"TR4400_SCP",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6172,7 +6172,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"QUANTA_YX3-EX",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6205,7 +6205,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"ET-WV525",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6238,7 +6238,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"WNXE12AWR",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6271,7 +6271,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"ET-WV520",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6304,7 +6304,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"ONTL3",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6337,7 +6337,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"SAC2V2S",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6370,7 +6370,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"RAC2V1S",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6403,7 +6403,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"SR203",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6436,7 +6436,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"CGM4140COM",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6469,7 +6469,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"RAC2V1K",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6502,7 +6502,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"CODA-4582",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6535,7 +6535,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"PG-9082L",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6601,7 +6601,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"PP302Z-GW",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6634,7 +6634,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"EWM1330",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6667,7 +6667,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"PP302Z-EX",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6700,7 +6700,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"VFSC_ONTL3_ES",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6750,7 +6750,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"PP213X-EX",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6766,7 +6766,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"PP213X-EX",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6782,7 +6782,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"RAC2V1A",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6815,7 +6815,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"SR201",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6848,7 +6848,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"QUANTA_YX3",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6881,7 +6881,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"SE401",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6914,7 +6914,7 @@
       "maxMcs":9,
       "maxNss":3,
       "model":"VFSC_VOX25_ES",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6947,7 +6947,7 @@
       "maxMcs":9,
       "maxNss":3,
       "model":"PX5001",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -6980,7 +6980,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"ET-WV535",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7013,7 +7013,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"PP302Z",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7046,7 +7046,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"LG302Z",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7079,7 +7079,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"CGA4233DE",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7112,7 +7112,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"MW6s",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7145,7 +7145,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"Plume Pod v1.0",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7178,7 +7178,7 @@
       "maxMcs":9,
       "maxNss":5,
       "model":"KWRT-6836",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7211,7 +7211,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"DG2140_TEST",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7244,7 +7244,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"SM-V520V",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7277,7 +7277,7 @@
       "maxMcs":9,
       "maxNss":3,
       "model":"BCP01",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7310,7 +7310,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"IPQ8064-AP-AP161",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7326,7 +7326,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"IPQ8064-AP-AP161",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7359,7 +7359,7 @@
       "maxMcs":9,
       "maxNss":2,
       "model":"IPQ4019-AP-DK04",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7392,7 +7392,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"VR-3071",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7425,7 +7425,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"ARC63178_24",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7458,7 +7458,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"ET-WV530",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7491,7 +7491,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"RT5010W",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7524,7 +7524,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"UBC1322",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7557,7 +7557,7 @@
       "maxMcs":9,
       "maxNss":3,
       "model":"TG1682G",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -7590,7 +7590,7 @@
       "maxMcs":9,
       "maxNss":4,
       "model":"TG4482A",
-      "phyMode":9
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -15390,5 +15390,5 @@
       "regulatoryDomain":"JP"
     }
   ],
-  "version":"1.2.2"
+  "version":"1.2.3"
 }
