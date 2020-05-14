@@ -5022,6 +5022,57 @@
     },
     {
       "allowedChWidth":[
+        2,
+        3
+      ],
+      "chanGainCorrection":0.0,
+      "configurable":1,
+      "coverageCliRate":137500000.0,
+      "coverageOptTarget":200000000.0,
+      "freqBand":"5GL",
+      "jointOptTarget":200000000.0,
+      "maxChWidth":3,
+      "maxMcs":11,
+      "maxNss":4,
+      "model":"HH4000",
+      "phyMode":22
+    },
+    {
+      "allowedChWidth":[
+        2,
+        3
+      ],
+      "chanGainCorrection":0.0,
+      "configurable":1,
+      "coverageCliRate":137500000.0,
+      "coverageOptTarget":200000000.0,
+      "freqBand":"5GU",
+      "jointOptTarget":200000000.0,
+      "maxChWidth":3,
+      "maxMcs":11,
+      "maxNss":4,
+      "model":"HH4000",
+      "phyMode":22
+    },
+    {
+      "allowedChWidth":[
+        0,
+        1
+      ],
+      "chanGainCorrection":0.0,
+      "configurable":1,
+      "coverageCliRate":180000000.0,
+      "coverageOptTarget":20000000.0,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":31,
+      "maxNss":4,
+      "model":"HH4000",
+      "phyMode":22
+    },
+    {
+      "allowedChWidth":[
         2
       ],
       "chanGainCorrection":0.0,
