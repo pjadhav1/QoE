@@ -11,12 +11,12 @@
    "activeThroughputNeed": 3.0
  }, {
    "throughputClass": "powerpod",
-   "subCategories": ["pp302z", "ve32z", "ve332z", "owa3111", "lg302z"],
+   "subCategories": ["pp302z", "ve32z", "ve332z", "owa3111", "lg302z", "defaultAp"],
    "idleThroughputNeed": 150.0,
    "activeThroughputNeed": 450.0
  }, {
    "throughputClass": "pod",
-   "subCategories": ["plume pod v1.0","pp152x","et-wv535","et-wv520","et-wv525","defaultAp"],
+   "subCategories": ["plume pod v1.0","pp152x","et-wv535","et-wv520","et-wv525"],
    "idleThroughputNeed": 50.0,
    "activeThroughputNeed": 150.0
  }, {
@@ -33,7 +33,7 @@
    "activeThroughputNeed": 22.5
  }, {
    "throughputClass": "superpod",
-   "subCategories": ["pp203x","pp213x", "lg203x", "pp402z", "pp403z"],
+   "subCategories": ["pp203x","pp213x", "lg203x", "pp402z", "pp403z", "hh3000", "hh4000"],
    "idleThroughputNeed": 200.0,
    "activeThroughputNeed": 600.0
  }, {
