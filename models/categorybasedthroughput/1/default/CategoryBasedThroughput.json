@@ -21,7 +21,7 @@
    "activeThroughputNeed": 150.0
  }, {
    "throughputClass": "highEndDevices",
-   "subCategories": ["computer", "laptop computer", "desktop", "mobile phone", "router", "Mesh Router", "smartphone-android", "laptop-macbook",
+   "subCategories": ["computer", "laptop computer", "laptop", "desktop", "mobile phone", "router", "Mesh Router", "smartphone-android", "laptop-macbook",
      "mobile", "smart phone", "phone", "tablet", "desktop computer", "Custom Gateway", "gaming system", "gamingconsole", "game console", "tv", "tv or home theater", "set top box", "server"],
    "idleThroughputNeed": 15.0,
    "activeThroughputNeed": 45.0
@@ -38,7 +38,7 @@
    "activeThroughputNeed": 600.0
  }, {
    "throughputClass": "cams",
-   "subCategories": ["doorbell-ring", "camera-canary", "cameras & camcorders", "camera-nest", "camera"],
+   "subCategories": ["doorbell-ring", "camera-canary", "cameras & camcorders", "camera-nest", "camera", "baby camera"],
    "idleThroughputNeed": 5.0,
    "activeThroughputNeed": 15.0
  }]
