@@ -7516,6 +7516,124 @@
       ],
       "freqBand":"5G",
       "model":"ARC63178_24"
+    },
+    {
+      "chWidth":1,
+      "channels":[
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "freqBand":"2.4G",
+      "model":"TG3492MT"
+    },
+    {
+      "chWidth":0,
+      "channels":[
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "freqBand":"2.4G",
+      "model":"TG3492MT"
+    },
+    {
+      "chWidth":1,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        116,
+        120,
+        124,
+        128,
+        132,
+        136,
+        140
+      ],
+      "freqBand":"5G",
+      "model":"TG3492MT"
+    },
+    {
+      "chWidth":2,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        116,
+        120,
+        124,
+        128,
+        132,
+        136,
+        140
+      ],
+      "freqBand":"5G",
+      "model":"TG3492MT"
+    },
+    {
+      "chWidth":0,
+      "channels":[
+        36,
+        40,
+        44,
+        48,
+        52,
+        56,
+        60,
+        64,
+        100,
+        104,
+        108,
+        112,
+        116,
+        120,
+        124,
+        128,
+        132,
+        136,
+        140
+      ],
+      "freqBand":"5G",
+      "model":"TG3492MT"
     }
   ],
   "capabilities":[
@@ -11690,6 +11808,41 @@
       "maxMcs":15,
       "maxNss":2,
       "model":"Plume Pod v1.0",
+      "phyMode":7
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "chanGainCorrection":0.0,
+      "configurable":1,
+      "coverageCliRate":137500000.0,
+      "coverageOptTarget":170000000.0,
+      "dynamicBwAdaptation":1,
+      "freqBand":"5G",
+      "jointOptTarget":170000000.0,
+      "maxChWidth":2,
+      "maxMcs":9,
+      "maxNss":4,
+      "model":"TG3492MT",
+      "phyMode":19
+    },
+    {
+      "allowedChWidth":[
+        0,
+        1
+      ],
+      "chanGainCorrection":0.0,
+      "configurable":1,
+      "coverageCliRate":150000000.0,
+      "coverageOptTarget":20000000.0,
+      "dynamicBwAdaptation":1,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":23,
+      "maxNss":3,
+      "model":"TG3492MT",
       "phyMode":7
     }
   ],
@@ -21264,6 +21417,50 @@
       "ptx":17.0,
       "ptxMngPacket":18.0,
       "regulatoryDomain":"JP"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"TG3492MT",
+      "noise":-96.76091259055681,
+      "noiseMngPacket":-96.76091259055681,
+      "ptx":20.0,
+      "ptxMngPacket":20.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"TG3492MT",
+      "noise":-98.01029995663981,
+      "noiseMngPacket":-98.01029995663981,
+      "ptx":23.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5G",
+      "model":"TG3492MT",
+      "noise":-98.01029995663981,
+      "noiseMngPacket":-98.01029995663981,
+      "ptx":23.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5G",
+      "model":"TG3492MT",
+      "noise":-98.01029995663981,
+      "noiseMngPacket":-98.01029995663981,
+      "ptx":30.0,
+      "ptxMngPacket":30.0,
+      "regulatoryDomain":"NA"
     }
   ],
   "version":"1.2.5"
