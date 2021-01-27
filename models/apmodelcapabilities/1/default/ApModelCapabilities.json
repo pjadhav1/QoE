@@ -9722,7 +9722,7 @@
         2,
         3
       ],
-      "chanGainCorrection":0.0,
+      "chanGainCorrection":6.0,
       "configurable":1,
       "coverageCliRate":175000000.0,
       "coverageOptTarget":500000000.0,
@@ -10299,7 +10299,7 @@
         2,
         3
       ],
-      "chanGainCorrection":0.0,
+      "chanGainCorrection":6.0,
       "configurable":1,
       "coverageCliRate":175000000.0,
       "coverageOptTarget":500000000.0,
@@ -12193,7 +12193,7 @@
         2,
         3
       ],
-      "chanGainCorrection":0.0,
+      "chanGainCorrection":6.0,
       "configurable":1,
       "coverageCliRate":175000000.0,
       "coverageOptTarget":500000000.0,
@@ -12351,7 +12351,7 @@
         2,
         3
       ],
-      "chanGainCorrection":0.0,
+      "chanGainCorrection":6.0,
       "configurable":1,
       "coverageCliRate":175000000.0,
       "coverageOptTarget":500000000.0,
