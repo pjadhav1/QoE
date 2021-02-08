@@ -2712,26 +2712,6 @@
       "model":"HIVE-2100"
     },
     {
-      "chWidth":1,
-      "channels":[
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13
-      ],
-      "freqBand":"2.4G",
-      "model":"BCM947622DVT"
-    },
-    {
       "chWidth":0,
       "channels":[
         1,
@@ -3035,26 +3015,6 @@
       "model":"SAX1V1R"
     },
     {
-      "chWidth":1,
-      "channels":[
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13
-      ],
-      "freqBand":"2.4G",
-      "model":"PP503Z"
-    },
-    {
       "chWidth":0,
       "channels":[
         1,
@@ -3326,26 +3286,6 @@
       "model":"TG2492LG"
     },
     {
-      "chWidth":1,
-      "channels":[
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13
-      ],
-      "freqBand":"2.4G",
-      "model":"PP513Z"
-    },
-    {
       "chWidth":0,
       "channels":[
         1,
@@ -3494,26 +3434,6 @@
       ],
       "freqBand":"5GU",
       "model":"PP513Z"
-    },
-    {
-      "chWidth":1,
-      "channels":[
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9,
-        10,
-        11,
-        12,
-        13
-      ],
-      "freqBand":"2.4G",
-      "model":"PP403Z"
     },
     {
       "chWidth":0,
@@ -9805,8 +9725,7 @@
     },
     {
       "allowedChWidth":[
-        0,
-        1
+        0
       ],
       "chanGainCorrection":0.0,
       "configurable":1,
@@ -9815,7 +9734,7 @@
       "dynamicBwAdaptation":1,
       "freqBand":"2.4G",
       "jointOptTarget":10000000.0,
-      "maxChWidth":1,
+      "maxChWidth":0,
       "maxMcs":11,
       "maxNss":2,
       "model":"BCM947622DVT",
@@ -10452,8 +10371,7 @@
     },
     {
       "allowedChWidth":[
-        0,
-        1
+        0
       ],
       "chanGainCorrection":0.0,
       "configurable":1,
@@ -10462,7 +10380,7 @@
       "dynamicBwAdaptation":1,
       "freqBand":"2.4G",
       "jointOptTarget":10000000.0,
-      "maxChWidth":1,
+      "maxChWidth":0,
       "maxMcs":11,
       "maxNss":2,
       "model":"PP403Z",
@@ -12276,8 +12194,7 @@
     },
     {
       "allowedChWidth":[
-        0,
-        1
+        0
       ],
       "chanGainCorrection":0.0,
       "configurable":1,
@@ -12286,7 +12203,7 @@
       "dynamicBwAdaptation":1,
       "freqBand":"2.4G",
       "jointOptTarget":10000000.0,
-      "maxChWidth":1,
+      "maxChWidth":0,
       "maxMcs":11,
       "maxNss":2,
       "model":"PP503Z",
@@ -12469,8 +12386,7 @@
     },
     {
       "allowedChWidth":[
-        0,
-        1
+        0
       ],
       "chanGainCorrection":0.0,
       "configurable":1,
@@ -12479,7 +12395,7 @@
       "dynamicBwAdaptation":1,
       "freqBand":"2.4G",
       "jointOptTarget":10000000.0,
-      "maxChWidth":1,
+      "maxChWidth":0,
       "maxMcs":11,
       "maxNss":2,
       "model":"PP513Z",
