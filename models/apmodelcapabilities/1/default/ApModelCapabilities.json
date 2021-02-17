@@ -3761,11 +3761,7 @@
         36,
         40,
         44,
-        48,
-        52,
-        56,
-        60,
-        64
+        48
       ],
       "freqBand":"5GL",
       "model":"HH4000"
@@ -3776,11 +3772,7 @@
         36,
         40,
         44,
-        48,
-        52,
-        56,
-        60,
-        64
+        48
       ],
       "freqBand":"5GL",
       "model":"HH4000"
@@ -3791,11 +3783,7 @@
         36,
         40,
         44,
-        48,
-        52,
-        56,
-        60,
-        64
+        48
       ],
       "freqBand":"5GL",
       "model":"HH4000"
@@ -3806,11 +3794,7 @@
         36,
         40,
         44,
-        48,
-        52,
-        56,
-        60,
-        64
+        48
       ],
       "freqBand":"5GL",
       "model":"HH4000"
@@ -9762,7 +9746,7 @@
         2,
         3
       ],
-      "chanGainCorrection":0.0,
+      "chanGainCorrection":6.0,
       "configurable":1,
       "coverageCliRate":175000000.0,
       "coverageOptTarget":500000000.0,
@@ -10339,7 +10323,7 @@
         2,
         3
       ],
-      "chanGainCorrection":0.0,
+      "chanGainCorrection":6.0,
       "configurable":1,
       "coverageCliRate":175000000.0,
       "coverageOptTarget":500000000.0,
@@ -12231,7 +12215,7 @@
         2,
         3
       ],
-      "chanGainCorrection":0.0,
+      "chanGainCorrection":6.0,
       "configurable":1,
       "coverageCliRate":175000000.0,
       "coverageOptTarget":500000000.0,
@@ -12423,7 +12407,7 @@
         2,
         3
       ],
-      "chanGainCorrection":0.0,
+      "chanGainCorrection":6.0,
       "configurable":1,
       "coverageCliRate":175000000.0,
       "coverageOptTarget":500000000.0,
@@ -14761,7 +14745,7 @@
       "model":"BCM947622DVT",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":26,
+      "ptx":29,
       "ptxMngPacket":28,
       "regulatoryDomain":"NA"
     },
@@ -15641,7 +15625,7 @@
       "model":"PP403Z",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":26,
+      "ptx":29,
       "ptxMngPacket":28,
       "regulatoryDomain":"NA"
     },
@@ -15888,30 +15872,8 @@
       "regulatoryDomain":"NA"
     },
     {
-      "chWidth":2,
-      "channel":60,
-      "freqBand":"5GL",
-      "model":"HH4000",
-      "noise":-95.0,
-      "noiseMngPacket":-95.0,
-      "ptx":18.0,
-      "ptxMngPacket":18.0,
-      "regulatoryDomain":"NA"
-    },
-    {
       "chWidth":3,
       "channel":44,
-      "freqBand":"5GL",
-      "model":"HH4000",
-      "noise":-95.0,
-      "noiseMngPacket":-95.0,
-      "ptx":18.0,
-      "ptxMngPacket":18.0,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":3,
-      "channel":60,
       "freqBand":"5GL",
       "model":"HH4000",
       "noise":-95.0,
@@ -15927,8 +15889,8 @@
       "model":"HH4000",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":18.0,
-      "ptxMngPacket":18.0,
+      "ptx":26.0,
+      "ptxMngPacket":26.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -15949,8 +15911,8 @@
       "model":"HH4000",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":18.0,
-      "ptxMngPacket":18.0,
+      "ptx":26.0,
+      "ptxMngPacket":26.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -18523,7 +18485,7 @@
       "model":"PP503Z",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":26,
+      "ptx":29,
       "ptxMngPacket":28,
       "regulatoryDomain":"NA"
     },
@@ -18798,7 +18760,7 @@
       "model":"PP513Z",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":26,
+      "ptx":29,
       "ptxMngPacket":28,
       "regulatoryDomain":"NA"
     },
@@ -20129,7 +20091,7 @@
       "model":"BCM947622DVT",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":26,
+      "ptx":29,
       "ptxMngPacket":28,
       "regulatoryDomain":"US"
     },
@@ -20371,7 +20333,7 @@
       "model":"PP503Z",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":26,
+      "ptx":29,
       "ptxMngPacket":28,
       "regulatoryDomain":"US"
     },
@@ -20646,7 +20608,7 @@
       "model":"PP513Z",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":26,
+      "ptx":29,
       "ptxMngPacket":28,
       "regulatoryDomain":"US"
     },
@@ -21735,7 +21697,7 @@
       "model":"BCM947622DVT",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":26,
+      "ptx":29,
       "ptxMngPacket":28,
       "regulatoryDomain":"CA"
     },
@@ -21977,7 +21939,7 @@
       "model":"PP503Z",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":26,
+      "ptx":29,
       "ptxMngPacket":28,
       "regulatoryDomain":"CA"
     },
@@ -22252,7 +22214,7 @@
       "model":"PP513Z",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":26,
+      "ptx":29,
       "ptxMngPacket":28,
       "regulatoryDomain":"CA"
     },
@@ -23341,7 +23303,7 @@
       "model":"BCM947622DVT",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":26,
+      "ptx":29,
       "ptxMngPacket":28,
       "regulatoryDomain":"JP"
     },
@@ -23583,7 +23545,7 @@
       "model":"PP503Z",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":26,
+      "ptx":29,
       "ptxMngPacket":28,
       "regulatoryDomain":"JP"
     },
@@ -23858,7 +23820,7 @@
       "model":"PP513Z",
       "noise":-95.0,
       "noiseMngPacket":-95.0,
-      "ptx":26,
+      "ptx":29,
       "ptxMngPacket":28,
       "regulatoryDomain":"JP"
     },
