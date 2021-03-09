@@ -3061,11 +3061,7 @@
         36,
         40,
         44,
-        48,
-        52,
-        56,
-        60,
-        64
+        48
       ],
       "freqBand":"5GL",
       "model":"814-v6"
@@ -3076,11 +3072,7 @@
         36,
         40,
         44,
-        48,
-        52,
-        56,
-        60,
-        64
+        48
       ],
       "freqBand":"5GL",
       "model":"814-v6"
@@ -3091,11 +3083,7 @@
         36,
         40,
         44,
-        48,
-        52,
-        56,
-        60,
-        64
+        48
       ],
       "freqBand":"5GL",
       "model":"814-v6"
@@ -3103,18 +3091,6 @@
     {
       "chWidth":1,
       "channels":[
-        100,
-        104,
-        108,
-        112,
-        116,
-        120,
-        124,
-        128,
-        132,
-        136,
-        140,
-        144,
         149,
         153,
         157,
@@ -3127,18 +3103,6 @@
     {
       "chWidth":2,
       "channels":[
-        100,
-        104,
-        108,
-        112,
-        116,
-        120,
-        124,
-        128,
-        132,
-        136,
-        140,
-        144,
         149,
         153,
         157,
@@ -3151,18 +3115,6 @@
     {
       "chWidth":0,
       "channels":[
-        100,
-        104,
-        108,
-        112,
-        116,
-        120,
-        124,
-        128,
-        132,
-        136,
-        140,
-        144,
         149,
         153,
         157,
@@ -9729,7 +9681,7 @@
       "allowedChWidth":[
         2
       ],
-      "chanGainCorrection":6.0,
+      "chanGainCorrection":0.0,
       "configurable":1,
       "coverageCliRate":125000000.0,
       "coverageOptTarget":500000000.0,
@@ -9748,7 +9700,7 @@
         2,
         3
       ],
-      "chanGainCorrection":6.0,
+      "chanGainCorrection":0.0,
       "configurable":1,
       "coverageCliRate":175000000.0,
       "coverageOptTarget":500000000.0,
@@ -10361,7 +10313,7 @@
         2,
         3
       ],
-      "chanGainCorrection":6.0,
+      "chanGainCorrection":0.0,
       "configurable":1,
       "coverageCliRate":175000000.0,
       "coverageOptTarget":500000000.0,
@@ -10379,7 +10331,7 @@
       "allowedChWidth":[
         2
       ],
-      "chanGainCorrection":6.0,
+      "chanGainCorrection":0.0,
       "configurable":1,
       "coverageCliRate":125000000.0,
       "coverageOptTarget":500000000.0,
@@ -10448,21 +10400,20 @@
     },
     {
       "allowedChWidth":[
-        0,
-        1
+        2
       ],
       "chanGainCorrection":0.0,
       "configurable":1,
-      "coverageCliRate":90000000.0,
-      "coverageOptTarget":10000000.0,
+      "coverageCliRate":125000000.0,
+      "coverageOptTarget":500000000.0,
       "dynamicBwAdaptation":1,
-      "freqBand":"2.4G",
-      "jointOptTarget":10000000.0,
-      "maxChWidth":1,
-      "maxMcs":15,
+      "freqBand":"5GL",
+      "jointOptTarget":200000000.0,
+      "maxChWidth":2,
+      "maxMcs":9,
       "maxNss":2,
       "model":"814-v6",
-      "phyMode":7
+      "phyMode":19
     },
     {
       "allowedChWidth":[
@@ -10483,20 +10434,21 @@
     },
     {
       "allowedChWidth":[
-        2
+        0,
+        1
       ],
       "chanGainCorrection":0.0,
       "configurable":1,
-      "coverageCliRate":125000000.0,
-      "coverageOptTarget":500000000.0,
+      "coverageCliRate":90000000.0,
+      "coverageOptTarget":10000000.0,
       "dynamicBwAdaptation":1,
-      "freqBand":"5GL",
-      "jointOptTarget":200000000.0,
-      "maxChWidth":2,
-      "maxMcs":9,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":15,
       "maxNss":2,
       "model":"814-v6",
-      "phyMode":19
+      "phyMode":7
     },
     {
       "allowedChWidth":[
@@ -12207,7 +12159,7 @@
       "allowedChWidth":[
         2
       ],
-      "chanGainCorrection":6.0,
+      "chanGainCorrection":0.0,
       "configurable":1,
       "coverageCliRate":125000000.0,
       "coverageOptTarget":500000000.0,
@@ -12226,7 +12178,7 @@
         2,
         3
       ],
-      "chanGainCorrection":6.0,
+      "chanGainCorrection":0.0,
       "configurable":1,
       "coverageCliRate":175000000.0,
       "coverageOptTarget":500000000.0,
@@ -12402,7 +12354,7 @@
       "allowedChWidth":[
         2
       ],
-      "chanGainCorrection":6.0,
+      "chanGainCorrection":0.0,
       "configurable":1,
       "coverageCliRate":125000000.0,
       "coverageOptTarget":500000000.0,
@@ -12421,7 +12373,7 @@
         2,
         3
       ],
-      "chanGainCorrection":6.0,
+      "chanGainCorrection":0.0,
       "configurable":1,
       "coverageCliRate":175000000.0,
       "coverageOptTarget":500000000.0,
@@ -15769,28 +15721,6 @@
       "chWidth":2,
       "channel":44,
       "freqBand":"5GL",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
-      "channel":60,
-      "freqBand":"5GL",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
-      "channel":108,
-      "freqBand":"5GU",
       "model":"814-v6",
       "noise":-86.0,
       "noiseMngPacket":-95.0,
@@ -19608,61 +19538,6 @@
       "chWidth":0,
       "channel":1,
       "freqBand":"2.4G",
-      "model":"814-v6",
-      "noise":-92.0,
-      "noiseMngPacket":-95.0,
-      "ptx":22,
-      "ptxMngPacket":22,
-      "regulatoryDomain":"US"
-    },
-    {
-      "chWidth":2,
-      "channel":44,
-      "freqBand":"5GL",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
-      "regulatoryDomain":"US"
-    },
-    {
-      "chWidth":2,
-      "channel":60,
-      "freqBand":"5GL",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
-      "regulatoryDomain":"US"
-    },
-    {
-      "chWidth":2,
-      "channel":108,
-      "freqBand":"5GU",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
-      "regulatoryDomain":"US"
-    },
-    {
-      "chWidth":2,
-      "channel":157,
-      "freqBand":"5GU",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
-      "regulatoryDomain":"US"
-    },
-    {
-      "chWidth":0,
-      "channel":1,
-      "freqBand":"2.4G",
       "model":"SAQ4-CC1",
       "noise":-92.0,
       "noiseMngPacket":-95.0,
@@ -21214,61 +21089,6 @@
       "chWidth":0,
       "channel":1,
       "freqBand":"2.4G",
-      "model":"814-v6",
-      "noise":-92.0,
-      "noiseMngPacket":-95.0,
-      "ptx":22,
-      "ptxMngPacket":22,
-      "regulatoryDomain":"CA"
-    },
-    {
-      "chWidth":2,
-      "channel":44,
-      "freqBand":"5GL",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
-      "regulatoryDomain":"CA"
-    },
-    {
-      "chWidth":2,
-      "channel":60,
-      "freqBand":"5GL",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
-      "regulatoryDomain":"CA"
-    },
-    {
-      "chWidth":2,
-      "channel":108,
-      "freqBand":"5GU",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
-      "regulatoryDomain":"CA"
-    },
-    {
-      "chWidth":2,
-      "channel":157,
-      "freqBand":"5GU",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
-      "regulatoryDomain":"CA"
-    },
-    {
-      "chWidth":0,
-      "channel":1,
-      "freqBand":"2.4G",
       "model":"SAQ4-CC1",
       "noise":-92.0,
       "noiseMngPacket":-95.0,
@@ -22814,61 +22634,6 @@
       "noiseMngPacket":-95.0,
       "ptx":17.0,
       "ptxMngPacket":18.0,
-      "regulatoryDomain":"JP"
-    },
-    {
-      "chWidth":0,
-      "channel":1,
-      "freqBand":"2.4G",
-      "model":"814-v6",
-      "noise":-92.0,
-      "noiseMngPacket":-95.0,
-      "ptx":22,
-      "ptxMngPacket":22,
-      "regulatoryDomain":"JP"
-    },
-    {
-      "chWidth":2,
-      "channel":44,
-      "freqBand":"5GL",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
-      "regulatoryDomain":"JP"
-    },
-    {
-      "chWidth":2,
-      "channel":60,
-      "freqBand":"5GL",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
-      "regulatoryDomain":"JP"
-    },
-    {
-      "chWidth":2,
-      "channel":108,
-      "freqBand":"5GU",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
-      "regulatoryDomain":"JP"
-    },
-    {
-      "chWidth":2,
-      "channel":157,
-      "freqBand":"5GU",
-      "model":"814-v6",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":21,
-      "ptxMngPacket":21,
       "regulatoryDomain":"JP"
     },
     {
