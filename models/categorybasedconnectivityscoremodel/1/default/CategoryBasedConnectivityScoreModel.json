@@ -1,0 +1,76 @@
+{
+ "name": "CategoryBasedConnectivityScoreModel",
+ "version": "1.0",
+ "categoryBasedConnectivityEntries": [
+   {
+     "connectivityClass": "mobile",
+     "subCategories": ["mobile phone", "smartphone-android", "mobile", "smart phone", "phone", "tablet"],
+     "scoringRules": [
+       {"scoreLabel": 1, "connects15min":16, "rapidConnects15min":8, "repeatConnects15min":6},
+       {"scoreLabel": 2, "connects15min":13, "rapidConnects15min":6, "repeatConnects15min":4},
+       {"scoreLabel": 3, "connects15min":10, "rapidConnects15min":4, "repeatConnects15min":2},
+       {"scoreLabel": 4, "connects15min":7, "rapidConnects15min":2, "repeatConnects15min":1},
+       {"scoreLabel": 5, "connects15min":3, "rapidConnects15min":1, "repeatConnects15min":0}
+     ]
+   },
+   {
+     "connectivityClass": "portable",
+     "subCategories": ["laptop computer", "laptop", "laptop-macbook", "tablet"],
+     "scoringRules": [
+       {"scoreLabel": 1, "connects15min":10, "rapidConnects15min":6, "repeatConnects15min":6},
+       {"scoreLabel": 2, "connects15min":8, "rapidConnects15min":4, "repeatConnects15min":4},
+       {"scoreLabel": 3, "connects15min":6, "rapidConnects15min":2, "repeatConnects15min":2},
+       {"scoreLabel": 4, "connects15min":4, "rapidConnects15min":1, "repeatConnects15min":1},
+       {"scoreLabel": 5, "connects15min":2, "rapidConnects15min":0, "repeatConnects15min":0}
+     ]
+   },
+   {
+     "connectivityClass": "static",
+     "subCategories": ["computer", "desktop", "desktop computer", "gaming system", "gamingconsole", "game console", "tv", "tv or home theater", "set top box",
+                       "wifi speaker", "speaker", "speaker-echo", "Printer", "voice assistant", "computer accessory"],
+     "scoringRules": [
+       {"scoreLabel": 1, "connects15min":8, "rapidConnects15min":6, "repeatConnects15min":6},
+       {"scoreLabel": 2, "connects15min":6, "rapidConnects15min":4, "repeatConnects15min":4},
+       {"scoreLabel": 3, "connects15min":4, "rapidConnects15min":2, "repeatConnects15min":2},
+       {"scoreLabel": 4, "connects15min":2, "rapidConnects15min":1, "repeatConnects15min":1},
+       {"scoreLabel": 5, "connects15min":1, "rapidConnects15min":0, "repeatConnects15min":0}
+     ]
+   },
+   {
+     "connectivityClass": "iot",
+     "subCategories": ["thermostat-nest", "appliance or wearable", "watch", "hub-philips", "thermostat", "iot", "Air Purifier", "Bike", "Bitcoin Miner",
+       "Clock", "Coffee Maker", "Cooktop", "Diffuser", "Dish Washer", "Doorbell", "Doorlock", "EV Charger", "Fan", "Fitness Trainer", "Fridge","Garage Opener", "Home Security",
+       "Humidifier", "Light Bulb", "Light Switch", "Oven", "Pet Accessory", "Plug", "Pool System", "Rotimatic", "Scale", "Sensor", "Sleep System", "Maker Device", "Smart Monitor", "Smoke Alarm", "Solar",
+       "Sprinkler", "Toy", "Vacuum", "Virtual Reality", "Visitor Management", "Washer Dryer", "Water Heater", "Wearable", "Weather Monitor", "WiFi Tracker", "smart device"],
+     "scoringRules": [
+       {"scoreLabel": 1, "connects15min":30, "rapidConnects15min":30, "repeatConnects15min":10},
+       {"scoreLabel": 2, "connects15min":16, "rapidConnects15min":13, "repeatConnects15min":7},
+       {"scoreLabel": 3, "connects15min":8, "rapidConnects15min":7, "repeatConnects15min":5},
+       {"scoreLabel": 4, "connects15min":3, "rapidConnects15min":2, "repeatConnects15min":3},
+       {"scoreLabel": 5, "connects15min":1, "rapidConnects15min":1, "repeatConnects15min":1}
+     ]
+   },
+   {
+     "connectivityClass": "cams",
+     "subCategories": ["doorbell-ring", "camera-canary", "cameras & camcorders", "camera-nest", "camera", "baby camera"],
+     "scoringRules": [
+       {"scoreLabel": 1, "connects15min":10, "rapidConnects15min":6, "repeatConnects15min":6},
+       {"scoreLabel": 2, "connects15min":8, "rapidConnects15min":4, "repeatConnects15min":4},
+       {"scoreLabel": 3, "connects15min":6, "rapidConnects15min":2, "repeatConnects15min":2},
+       {"scoreLabel": 4, "connects15min":4, "rapidConnects15min":1, "repeatConnects15min":1},
+       {"scoreLabel": 5, "connects15min":2, "rapidConnects15min":0, "repeatConnects15min":0}
+     ]
+   },
+   {
+     "connectivityClass": "default",
+     "subCategories": ["default"],
+     "scoringRules": [
+       {"scoreLabel": 1, "connects15min":30, "rapidConnects15min":16, "repeatConnects15min":8},
+       {"scoreLabel": 2, "connects15min":16, "rapidConnects15min":12, "repeatConnects15min":6},
+       {"scoreLabel": 3, "connects15min":8, "rapidConnects15min":8, "repeatConnects15min":4},
+       {"scoreLabel": 4, "connects15min":6, "rapidConnects15min":4, "repeatConnects15min":2},
+       {"scoreLabel": 5, "connects15min":3, "rapidConnects15min":2, "repeatConnects15min":1}
+     ]
+   }
+ ]
+}
