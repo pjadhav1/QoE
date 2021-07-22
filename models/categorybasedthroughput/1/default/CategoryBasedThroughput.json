@@ -33,7 +33,7 @@
    "activeThroughputNeed": 22.5
  }, {
    "throughputClass": "superpod",
-   "subCategories": ["pp203x","pp213x", "lg203x", "pp402z", "pp403z", "hh3000", "hh4000"],
+   "subCategories": ["pp203x","pp213x", "lg203x", "pp402z", "pp403z", "hh3000", "hh4000", "fast266"],
    "idleThroughputNeed": 200.0,
    "activeThroughputNeed": 600.0
  }, {
