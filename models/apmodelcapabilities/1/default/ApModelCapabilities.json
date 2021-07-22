@@ -13938,6 +13938,58 @@
     },
     {
       "allowedChWidth":[
+        0,
+        1
+      ],
+      "chanGainCorrection":0.0,
+      "configurable":1,
+      "coverageCliRate":90000000.0,
+      "coverageOptTarget":10000000.0,
+      "dynamicBwAdaptation":1,
+      "freqBand":"2.4G",
+      "jointOptTarget":10000000.0,
+      "maxChWidth":1,
+      "maxMcs":11,
+      "maxNss":2,
+      "model":"841-t6",
+      "phyMode":22
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "chanGainCorrection":0.0,
+      "configurable":1,
+      "coverageCliRate":125000000.0,
+      "coverageOptTarget":500000000.0,
+      "dynamicBwAdaptation":1,
+      "freqBand":"5GL",
+      "jointOptTarget":200000000.0,
+      "maxChWidth":2,
+      "maxMcs":11,
+      "maxNss":2,
+      "model":"841-t6",
+      "phyMode":22
+    },
+    {
+      "allowedChWidth":[
+        2
+      ],
+      "chanGainCorrection":0.0,
+      "configurable":1,
+      "coverageCliRate":175000000.0,
+      "coverageOptTarget":500000000.0,
+      "dynamicBwAdaptation":1,
+      "freqBand":"5GU",
+      "jointOptTarget":200000000.0,
+      "maxChWidth":2,
+      "maxMcs":11,
+      "maxNss":4,
+      "model":"841-t6",
+      "phyMode":22
+    },
+    {
+      "allowedChWidth":[
         2
       ],
       "chanGainCorrection":0.0,
@@ -15437,7 +15489,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.75488750216347,
-      "ptxMngPacket":21.75488750216347,
+      "ptxMngPacket":16.75488750216347,
       "regulatoryDomain":"NA"
     },
     {
@@ -15448,7 +15500,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -15459,7 +15511,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -15470,7 +15522,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -15481,7 +15533,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -15492,7 +15544,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.25488750216347,
-      "ptxMngPacket":19.25488750216347,
+      "ptxMngPacket":16.25488750216347,
       "regulatoryDomain":"US"
     },
     {
@@ -15503,7 +15555,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -15514,7 +15566,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -15525,7 +15577,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -15536,7 +15588,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -15547,7 +15599,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.25488750216347,
-      "ptxMngPacket":19.25488750216347,
+      "ptxMngPacket":16.25488750216347,
       "regulatoryDomain":"CA"
     },
     {
@@ -15558,7 +15610,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -15569,7 +15621,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -15580,7 +15632,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -15591,7 +15643,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -15602,7 +15654,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.75488750216347,
-      "ptxMngPacket":18.25488750216347,
+      "ptxMngPacket":16.75488750216347,
       "regulatoryDomain":"JP"
     },
     {
@@ -15635,7 +15687,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -15646,7 +15698,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -15712,7 +15764,7 @@
       "noise":-92.77121254719663,
       "noiseMngPacket":-96.77121254719663,
       "ptx":20.97121254719662,
-      "ptxMngPacket":24.671212547196625,
+      "ptxMngPacket":20.97121254719662,
       "regulatoryDomain":"NA"
     },
     {
@@ -15723,7 +15775,7 @@
       "noise":-91.77121254719663,
       "noiseMngPacket":-96.77121254719663,
       "ptx":15.971212547196624,
-      "ptxMngPacket":16.371212547196624,
+      "ptxMngPacket":15.971212547196624,
       "regulatoryDomain":"NA"
     },
     {
@@ -15734,7 +15786,7 @@
       "noise":-91.77121254719663,
       "noiseMngPacket":-96.77121254719663,
       "ptx":15.971212547196624,
-      "ptxMngPacket":16.371212547196624,
+      "ptxMngPacket":15.971212547196624,
       "regulatoryDomain":"NA"
     },
     {
@@ -15745,7 +15797,7 @@
       "noise":-91.77121254719663,
       "noiseMngPacket":-96.77121254719663,
       "ptx":19.071212547196623,
-      "ptxMngPacket":23.47121254719662,
+      "ptxMngPacket":19.071212547196623,
       "regulatoryDomain":"NA"
     },
     {
@@ -15756,7 +15808,7 @@
       "noise":-90.77121254719663,
       "noiseMngPacket":-96.77121254719663,
       "ptx":26.271212547196626,
-      "ptxMngPacket":26.771212547196626,
+      "ptxMngPacket":26.271212547196626,
       "regulatoryDomain":"NA"
     },
     {
@@ -15778,7 +15830,7 @@
       "noise":-86.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":22.0,
-      "ptxMngPacket":23,
+      "ptxMngPacket":22.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -15789,7 +15841,7 @@
       "noise":-86.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":22.0,
-      "ptxMngPacket":23,
+      "ptxMngPacket":22.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -15800,7 +15852,7 @@
       "noise":-86.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":22.0,
-      "ptxMngPacket":23,
+      "ptxMngPacket":22.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -15811,7 +15863,7 @@
       "noise":-86.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":22.0,
-      "ptxMngPacket":23,
+      "ptxMngPacket":22.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -15822,29 +15874,29 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
+      "ptxMngPacket":15.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"BCM947189GW",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
       "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
       "chWidth":2,
-      "channel":44,
-      "freqBand":"5G",
-      "model":"BCM947189GW",
-      "noise":-86.0,
-      "noiseMngPacket":-98.0,
-      "ptx":20.0,
-      "ptxMngPacket":23.0,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
       "channel":60,
       "freqBand":"5G",
       "model":"BCM947189GW",
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -15855,7 +15907,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -15866,7 +15918,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -15877,7 +15929,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"US"
     },
     {
@@ -15888,7 +15940,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -15899,7 +15951,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -15910,7 +15962,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -15921,7 +15973,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -15932,7 +15984,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -15943,7 +15995,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -15954,7 +16006,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -15965,7 +16017,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -15976,7 +16028,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -15987,7 +16039,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":16.5,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -16020,7 +16072,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -16031,7 +16083,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -16042,7 +16094,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -16053,7 +16105,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -16064,7 +16116,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -16075,7 +16127,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -16086,7 +16138,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -16097,7 +16149,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"US"
     },
     {
@@ -16108,7 +16160,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -16119,7 +16171,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -16130,7 +16182,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -16141,7 +16193,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -16152,7 +16204,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -16163,7 +16215,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -16174,7 +16226,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -16185,7 +16237,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -16196,7 +16248,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -16207,7 +16259,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":16.5,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -16240,7 +16292,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":18.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -16251,7 +16303,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":18.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -16548,7 +16600,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"NA"
     },
     {
@@ -16559,7 +16611,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -16570,7 +16622,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -16581,7 +16633,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -16592,7 +16644,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -16603,7 +16655,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -16614,7 +16666,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"NA"
     },
     {
@@ -16625,7 +16677,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"US"
     },
     {
@@ -16636,7 +16688,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"US"
     },
     {
@@ -16647,7 +16699,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"US"
     },
     {
@@ -16658,7 +16710,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"US"
     },
     {
@@ -16669,7 +16721,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"US"
     },
     {
@@ -16680,7 +16732,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"US"
     },
     {
@@ -16691,7 +16743,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"US"
     },
     {
@@ -16702,7 +16754,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"CA"
     },
     {
@@ -16713,7 +16765,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -16724,7 +16776,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -16735,7 +16787,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -16746,7 +16798,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -16757,7 +16809,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -16768,7 +16820,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"CA"
     },
     {
@@ -16779,7 +16831,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"JP"
     },
     {
@@ -16790,7 +16842,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -16801,7 +16853,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -16812,7 +16864,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -16823,7 +16875,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -16834,7 +16886,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -16845,7 +16897,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"JP"
     },
     {
@@ -16944,7 +16996,7 @@
       "noise":-92.0,
       "noiseMngPacket":-98.0,
       "ptx":18.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":18.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -16955,7 +17007,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -16966,7 +17018,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -16977,7 +17029,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -16988,7 +17040,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -16999,7 +17051,7 @@
       "noise":-92.0,
       "noiseMngPacket":-98.0,
       "ptx":17.5,
-      "ptxMngPacket":20.5,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"US"
     },
     {
@@ -17010,7 +17062,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -17021,7 +17073,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -17032,7 +17084,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -17043,7 +17095,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -17054,7 +17106,7 @@
       "noise":-92.0,
       "noiseMngPacket":-98.0,
       "ptx":17.5,
-      "ptxMngPacket":20.5,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -17065,7 +17117,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -17076,7 +17128,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -17087,7 +17139,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -17098,7 +17150,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -17109,7 +17161,7 @@
       "noise":-92.0,
       "noiseMngPacket":-98.0,
       "ptx":18.0,
-      "ptxMngPacket":19.5,
+      "ptxMngPacket":18.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -17142,7 +17194,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -17153,7 +17205,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -17571,7 +17623,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"NA"
     },
     {
@@ -17582,7 +17634,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -17593,7 +17645,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -17604,7 +17656,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -17615,7 +17667,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -17626,7 +17678,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -17637,7 +17689,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"NA"
     },
     {
@@ -17648,7 +17700,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"US"
     },
     {
@@ -17659,7 +17711,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"US"
     },
     {
@@ -17670,7 +17722,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"US"
     },
     {
@@ -17681,7 +17733,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"US"
     },
     {
@@ -17692,7 +17744,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"US"
     },
     {
@@ -17703,7 +17755,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"US"
     },
     {
@@ -17714,7 +17766,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"US"
     },
     {
@@ -17725,7 +17777,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"CA"
     },
     {
@@ -17736,7 +17788,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -17747,7 +17799,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -17758,7 +17810,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -17769,7 +17821,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -17780,7 +17832,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -17791,7 +17843,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"CA"
     },
     {
@@ -17802,7 +17854,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"JP"
     },
     {
@@ -17813,7 +17865,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -17824,7 +17876,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -17835,7 +17887,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -17846,7 +17898,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -17857,7 +17909,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -17868,7 +17920,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"JP"
     },
     {
@@ -17879,7 +17931,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"NA"
     },
     {
@@ -17890,7 +17942,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -17901,7 +17953,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -17912,7 +17964,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -17923,7 +17975,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -17934,7 +17986,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -17945,7 +17997,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -18011,7 +18063,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":19,
-      "ptxMngPacket":22,
+      "ptxMngPacket":19,
       "regulatoryDomain":"NA"
     },
     {
@@ -18022,7 +18074,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":26,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -18033,7 +18085,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":26,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -18044,7 +18096,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -18055,7 +18107,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -18484,7 +18536,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":19,
-      "ptxMngPacket":22,
+      "ptxMngPacket":19,
       "regulatoryDomain":"NA"
     },
     {
@@ -18495,7 +18547,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -18506,7 +18558,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -18517,7 +18569,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":26,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -18528,7 +18580,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":26,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -18550,7 +18602,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -18561,7 +18613,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -18572,7 +18624,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -18583,7 +18635,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -18737,29 +18789,29 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
+      "ptxMngPacket":15.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"PP302Z",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
       "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
       "chWidth":2,
-      "channel":44,
-      "freqBand":"5G",
-      "model":"PP302Z",
-      "noise":-86.0,
-      "noiseMngPacket":-98.0,
-      "ptx":20.0,
-      "ptxMngPacket":23.0,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
       "channel":60,
       "freqBand":"5G",
       "model":"PP302Z",
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -18770,7 +18822,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -18781,7 +18833,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -18792,7 +18844,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"US"
     },
     {
@@ -18803,7 +18855,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -18814,7 +18866,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -18825,7 +18877,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -18836,7 +18888,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -18847,7 +18899,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -18858,7 +18910,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -18869,7 +18921,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -18880,7 +18932,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -18891,7 +18943,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -18902,7 +18954,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":16.5,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -18935,7 +18987,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -18946,7 +18998,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -19012,7 +19064,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.75488750216347,
-      "ptxMngPacket":21.75488750216347,
+      "ptxMngPacket":16.75488750216347,
       "regulatoryDomain":"NA"
     },
     {
@@ -19023,7 +19075,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -19034,7 +19086,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -19045,7 +19097,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -19056,7 +19108,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -19309,7 +19361,7 @@
       "noise":-88.0,
       "noiseMngPacket":-88.0,
       "ptx":24.8,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":24.8,
       "regulatoryDomain":"NA"
     },
     {
@@ -19320,7 +19372,7 @@
       "noise":-90.02059991327963,
       "noiseMngPacket":-84.0,
       "ptx":22.5,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":22.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -19331,7 +19383,7 @@
       "noise":-90.02059991327963,
       "noiseMngPacket":-84.0,
       "ptx":22.5,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":22.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -19342,7 +19394,7 @@
       "noise":-90.02059991327963,
       "noiseMngPacket":-84.0,
       "ptx":22.5,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":22.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -19353,7 +19405,7 @@
       "noise":-90.02059991327963,
       "noiseMngPacket":-84.0,
       "ptx":22.5,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":22.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -19419,29 +19471,29 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
+      "ptxMngPacket":15.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"PP302Z-EX",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
       "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
       "chWidth":2,
-      "channel":44,
-      "freqBand":"5G",
-      "model":"PP302Z-EX",
-      "noise":-86.0,
-      "noiseMngPacket":-98.0,
-      "ptx":20.0,
-      "ptxMngPacket":23.0,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
       "channel":60,
       "freqBand":"5G",
       "model":"PP302Z-EX",
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -19452,7 +19504,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -19463,7 +19515,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -19474,7 +19526,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"US"
     },
     {
@@ -19485,7 +19537,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -19496,7 +19548,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -19507,7 +19559,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -19518,7 +19570,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -19529,7 +19581,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -19540,7 +19592,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -19551,7 +19603,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -19562,7 +19614,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -19573,7 +19625,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -19584,7 +19636,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":16.5,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -19617,7 +19669,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -19628,7 +19680,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -19980,7 +20032,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.75488750216347,
-      "ptxMngPacket":21.75488750216347,
+      "ptxMngPacket":16.75488750216347,
       "regulatoryDomain":"NA"
     },
     {
@@ -19991,7 +20043,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20002,7 +20054,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20013,7 +20065,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20024,7 +20076,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20035,7 +20087,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.25488750216347,
-      "ptxMngPacket":19.25488750216347,
+      "ptxMngPacket":16.25488750216347,
       "regulatoryDomain":"US"
     },
     {
@@ -20046,7 +20098,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20057,7 +20109,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20068,7 +20120,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20079,7 +20131,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20090,7 +20142,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.25488750216347,
-      "ptxMngPacket":19.25488750216347,
+      "ptxMngPacket":16.25488750216347,
       "regulatoryDomain":"CA"
     },
     {
@@ -20101,7 +20153,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -20112,7 +20164,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -20123,7 +20175,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -20134,7 +20186,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -20145,7 +20197,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.75488750216347,
-      "ptxMngPacket":18.25488750216347,
+      "ptxMngPacket":16.75488750216347,
       "regulatoryDomain":"JP"
     },
     {
@@ -20178,7 +20230,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -20189,7 +20241,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -20431,7 +20483,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -20442,7 +20494,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -20453,7 +20505,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -20464,7 +20516,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -20475,29 +20527,29 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
+      "ptxMngPacket":15.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"LG302Z",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
       "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
       "chWidth":2,
-      "channel":44,
-      "freqBand":"5G",
-      "model":"LG302Z",
-      "noise":-86.0,
-      "noiseMngPacket":-98.0,
-      "ptx":20.0,
-      "ptxMngPacket":23.0,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
       "channel":60,
       "freqBand":"5G",
       "model":"LG302Z",
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20508,7 +20560,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20519,7 +20571,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20530,7 +20582,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"US"
     },
     {
@@ -20541,7 +20593,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20552,7 +20604,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20563,7 +20615,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20574,7 +20626,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20585,7 +20637,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -20596,7 +20648,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -20607,7 +20659,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -20618,7 +20670,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -20629,7 +20681,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -20640,7 +20692,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":16.5,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -20673,7 +20725,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -20684,7 +20736,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -20783,7 +20835,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":31.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":31.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20794,7 +20846,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20805,7 +20857,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20816,7 +20868,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20827,7 +20879,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20838,7 +20890,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20849,7 +20901,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20860,7 +20912,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -20871,7 +20923,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":31.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":31.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20882,7 +20934,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20893,7 +20945,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20904,7 +20956,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20915,7 +20967,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20926,7 +20978,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20937,7 +20989,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20948,7 +21000,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"US"
     },
     {
@@ -20959,7 +21011,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":31.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":31.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -20970,7 +21022,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -20981,7 +21033,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -20992,7 +21044,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -21003,7 +21055,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -21014,7 +21066,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -21025,7 +21077,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -21036,7 +21088,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -21047,7 +21099,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":31.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":31.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -21058,7 +21110,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -21069,7 +21121,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -21080,7 +21132,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -21091,7 +21143,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -21102,7 +21154,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":30.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -21113,7 +21165,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -21124,7 +21176,7 @@
       "noise":-98.0,
       "noiseMngPacket":-98.0,
       "ptx":32.0,
-      "ptxMngPacket":24.0,
+      "ptxMngPacket":32.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -21135,7 +21187,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":20.0,
-      "ptxMngPacket":30,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -21278,7 +21330,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":19,
-      "ptxMngPacket":22,
+      "ptxMngPacket":19,
       "regulatoryDomain":"NA"
     },
     {
@@ -21289,7 +21341,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":26,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -21300,7 +21352,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":26,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -21311,7 +21363,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -21322,7 +21374,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -21641,7 +21693,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"NA"
     },
     {
@@ -21652,7 +21704,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -21663,7 +21715,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -21674,7 +21726,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -21685,7 +21737,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -21696,7 +21748,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -21707,7 +21759,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"NA"
     },
     {
@@ -21773,7 +21825,7 @@
       "noise":-92.0,
       "noiseMngPacket":-98.0,
       "ptx":18.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":18.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -21784,7 +21836,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -21795,7 +21847,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -21806,7 +21858,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -21817,7 +21869,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -21828,7 +21880,7 @@
       "noise":-90.0,
       "noiseMngPacket":-93.0,
       "ptx":22.0,
-      "ptxMngPacket":23.4,
+      "ptxMngPacket":22.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -21839,7 +21891,7 @@
       "noise":-84.0,
       "noiseMngPacket":-96.0,
       "ptx":16.6,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":16.6,
       "regulatoryDomain":"NA"
     },
     {
@@ -21850,7 +21902,7 @@
       "noise":-84.0,
       "noiseMngPacket":-96.0,
       "ptx":16.6,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":16.6,
       "regulatoryDomain":"NA"
     },
     {
@@ -21861,7 +21913,7 @@
       "noise":-84.0,
       "noiseMngPacket":-96.0,
       "ptx":16.6,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":16.6,
       "regulatoryDomain":"NA"
     },
     {
@@ -21883,7 +21935,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"NA"
     },
     {
@@ -21894,7 +21946,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -21905,7 +21957,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -21916,7 +21968,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -21927,7 +21979,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -21938,7 +21990,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -21949,7 +22001,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"NA"
     },
     {
@@ -21960,7 +22012,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"US"
     },
     {
@@ -21971,7 +22023,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"US"
     },
     {
@@ -21982,7 +22034,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"US"
     },
     {
@@ -21993,7 +22045,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"US"
     },
     {
@@ -22004,7 +22056,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"US"
     },
     {
@@ -22015,7 +22067,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"US"
     },
     {
@@ -22026,7 +22078,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"US"
     },
     {
@@ -22037,7 +22089,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"CA"
     },
     {
@@ -22048,7 +22100,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -22059,7 +22111,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -22070,7 +22122,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -22081,7 +22133,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -22092,7 +22144,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -22103,7 +22155,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"CA"
     },
     {
@@ -22114,7 +22166,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"JP"
     },
     {
@@ -22125,7 +22177,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -22136,7 +22188,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -22147,7 +22199,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -22158,7 +22210,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -22169,7 +22221,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -22180,7 +22232,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"JP"
     },
     {
@@ -22246,7 +22298,7 @@
       "noise":-92.0,
       "noiseMngPacket":-98.0,
       "ptx":27.53,
-      "ptxMngPacket":26,
+      "ptxMngPacket":27.53,
       "regulatoryDomain":"NA"
     },
     {
@@ -22257,7 +22309,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":26.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":26.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -22268,7 +22320,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":26.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":26.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -22279,7 +22331,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":26.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":26.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -22290,7 +22342,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":26.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":26.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -22345,7 +22397,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"NA"
     },
     {
@@ -22356,7 +22408,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -22367,7 +22419,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -22378,7 +22430,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -22389,7 +22441,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -22400,7 +22452,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -22411,7 +22463,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -22653,7 +22705,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -22664,7 +22716,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -22675,7 +22727,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -22686,7 +22738,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -22752,7 +22804,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -22763,7 +22815,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -22774,7 +22826,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -22785,7 +22837,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -22796,7 +22848,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -22807,7 +22859,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"US"
     },
     {
@@ -22818,7 +22870,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -22829,7 +22881,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -22840,7 +22892,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -22851,7 +22903,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -22862,7 +22914,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -22873,7 +22925,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -22884,7 +22936,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -22895,7 +22947,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -22906,7 +22958,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -22917,7 +22969,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":16.5,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -22950,7 +23002,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":18.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -22961,7 +23013,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":18.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -22972,7 +23024,7 @@
       "noise":-88.0,
       "noiseMngPacket":-88.0,
       "ptx":24.8,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":24.8,
       "regulatoryDomain":"NA"
     },
     {
@@ -22983,7 +23035,7 @@
       "noise":-90.02059991327963,
       "noiseMngPacket":-84.0,
       "ptx":22.5,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":22.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -22994,7 +23046,7 @@
       "noise":-90.02059991327963,
       "noiseMngPacket":-84.0,
       "ptx":22.5,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":22.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -23005,7 +23057,7 @@
       "noise":-90.02059991327963,
       "noiseMngPacket":-84.0,
       "ptx":22.5,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":22.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -23016,7 +23068,7 @@
       "noise":-90.02059991327963,
       "noiseMngPacket":-84.0,
       "ptx":22.5,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":22.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -23082,7 +23134,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"NA"
     },
     {
@@ -23093,7 +23145,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -23104,7 +23156,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -23115,7 +23167,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -23126,7 +23178,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -23137,7 +23189,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -23148,7 +23200,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"NA"
     },
     {
@@ -23159,7 +23211,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"US"
     },
     {
@@ -23170,7 +23222,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"US"
     },
     {
@@ -23181,7 +23233,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"US"
     },
     {
@@ -23192,7 +23244,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"US"
     },
     {
@@ -23203,7 +23255,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"US"
     },
     {
@@ -23214,7 +23266,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"US"
     },
     {
@@ -23225,7 +23277,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"US"
     },
     {
@@ -23236,7 +23288,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"CA"
     },
     {
@@ -23247,7 +23299,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -23258,7 +23310,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -23269,7 +23321,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -23280,7 +23332,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -23291,7 +23343,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -23302,7 +23354,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"CA"
     },
     {
@@ -23313,7 +23365,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"JP"
     },
     {
@@ -23324,7 +23376,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -23335,7 +23387,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -23346,7 +23398,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -23357,7 +23409,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -23368,7 +23420,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -23379,7 +23431,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"JP"
     },
     {
@@ -23445,7 +23497,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.75488750216347,
-      "ptxMngPacket":21.75488750216347,
+      "ptxMngPacket":16.75488750216347,
       "regulatoryDomain":"NA"
     },
     {
@@ -23456,7 +23508,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -23467,7 +23519,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -23478,7 +23530,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -23489,7 +23541,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -23500,29 +23552,29 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
+      "ptxMngPacket":15.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"PP302Z-GW",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
       "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
       "chWidth":2,
-      "channel":44,
-      "freqBand":"5G",
-      "model":"PP302Z-GW",
-      "noise":-86.0,
-      "noiseMngPacket":-98.0,
-      "ptx":20.0,
-      "ptxMngPacket":23.0,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
       "channel":60,
       "freqBand":"5G",
       "model":"PP302Z-GW",
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -23533,7 +23585,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -23544,7 +23596,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -23555,7 +23607,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"US"
     },
     {
@@ -23566,7 +23618,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -23577,7 +23629,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -23588,7 +23640,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -23599,7 +23651,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -23610,7 +23662,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -23621,7 +23673,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -23632,7 +23684,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -23643,7 +23695,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -23654,7 +23706,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -23665,7 +23717,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":16.5,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -23698,7 +23750,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -23709,7 +23761,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -23764,51 +23816,51 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":19,
+      "ptxMngPacket":19,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5GL",
+      "model":"IPQ4019-AP-DK04",
+      "noise":-86.0,
+      "noiseMngPacket":-95.0,
+      "ptx":23,
+      "ptxMngPacket":23,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5GL",
+      "model":"IPQ4019-AP-DK04",
+      "noise":-86.0,
+      "noiseMngPacket":-95.0,
+      "ptx":23,
+      "ptxMngPacket":23,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5GU",
+      "model":"IPQ4019-AP-DK04",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":22,
       "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
       "chWidth":2,
-      "channel":44,
-      "freqBand":"5GL",
-      "model":"IPQ4019-AP-DK04",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":23,
-      "ptxMngPacket":26,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
-      "channel":60,
-      "freqBand":"5GL",
-      "model":"IPQ4019-AP-DK04",
-      "noise":-86.0,
-      "noiseMngPacket":-95.0,
-      "ptx":23,
-      "ptxMngPacket":26,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
-      "channel":108,
-      "freqBand":"5GU",
-      "model":"IPQ4019-AP-DK04",
-      "noise":-86.0,
-      "noiseMngPacket":-98.0,
-      "ptx":22,
-      "ptxMngPacket":26,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
       "channel":157,
       "freqBand":"5GU",
       "model":"IPQ4019-AP-DK04",
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":26,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -23819,7 +23871,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"NA"
     },
     {
@@ -23830,7 +23882,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -23841,7 +23893,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -23852,7 +23904,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -23863,7 +23915,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -23874,7 +23926,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -23885,7 +23937,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"NA"
     },
     {
@@ -23896,7 +23948,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"US"
     },
     {
@@ -23907,7 +23959,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"US"
     },
     {
@@ -23918,7 +23970,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"US"
     },
     {
@@ -23929,7 +23981,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"US"
     },
     {
@@ -23940,7 +23992,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"US"
     },
     {
@@ -23951,7 +24003,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"US"
     },
     {
@@ -23962,7 +24014,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"US"
     },
     {
@@ -23973,7 +24025,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"CA"
     },
     {
@@ -23984,7 +24036,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -23995,7 +24047,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -24006,7 +24058,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -24017,7 +24069,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -24028,7 +24080,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -24039,7 +24091,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"CA"
     },
     {
@@ -24050,7 +24102,7 @@
       "noise":-80.0,
       "noiseMngPacket":-80.0,
       "ptx":21,
-      "ptxMngPacket":20,
+      "ptxMngPacket":21,
       "regulatoryDomain":"JP"
     },
     {
@@ -24061,7 +24113,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -24072,7 +24124,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -24083,7 +24135,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":20.5,
-      "ptxMngPacket":26,
+      "ptxMngPacket":20.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -24094,7 +24146,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":17.5,
-      "ptxMngPacket":20,
+      "ptxMngPacket":17.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -24105,7 +24157,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":22.5,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"JP"
     },
     {
@@ -24116,7 +24168,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":29,
-      "ptxMngPacket":28,
+      "ptxMngPacket":29,
       "regulatoryDomain":"JP"
     },
     {
@@ -24270,7 +24322,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":22.7,
-      "ptxMngPacket":23,
+      "ptxMngPacket":22.7,
       "regulatoryDomain":"NA"
     },
     {
@@ -24281,7 +24333,7 @@
       "noise":-86.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":13.84,
-      "ptxMngPacket":23,
+      "ptxMngPacket":13.84,
       "regulatoryDomain":"NA"
     },
     {
@@ -24292,7 +24344,7 @@
       "noise":-86.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":13.84,
-      "ptxMngPacket":23,
+      "ptxMngPacket":13.84,
       "regulatoryDomain":"NA"
     },
     {
@@ -24303,7 +24355,7 @@
       "noise":-86.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":13.84,
-      "ptxMngPacket":23,
+      "ptxMngPacket":13.84,
       "regulatoryDomain":"NA"
     },
     {
@@ -24314,7 +24366,7 @@
       "noise":-86.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":13.84,
-      "ptxMngPacket":23,
+      "ptxMngPacket":13.84,
       "regulatoryDomain":"NA"
     },
     {
@@ -24380,7 +24432,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":16.0,
-      "ptxMngPacket":31.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -24391,7 +24443,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":16.0,
-      "ptxMngPacket":31.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -24402,7 +24454,62 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":21.0,
-      "ptxMngPacket":31.0,
+      "ptxMngPacket":21.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":0,
+      "channel":1,
+      "freqBand":"2.4G",
+      "model":"841-t6",
+      "noise":-95.0,
+      "noiseMngPacket":-95.0,
+      "ptx":22.5,
+      "ptxMngPacket":22.5,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":108,
+      "freqBand":"5GU",
+      "model":"841-t6",
+      "noise":-98.0,
+      "noiseMngPacket":-98.0,
+      "ptx":23.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":157,
+      "freqBand":"5GU",
+      "model":"841-t6",
+      "noise":-98.0,
+      "noiseMngPacket":-98.0,
+      "ptx":23.0,
+      "ptxMngPacket":23.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5GL",
+      "model":"841-t6",
+      "noise":-95.0,
+      "noiseMngPacket":-95.0,
+      "ptx":20.0,
+      "ptxMngPacket":20.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":60,
+      "freqBand":"5GL",
+      "model":"841-t6",
+      "noise":-95.0,
+      "noiseMngPacket":-95.0,
+      "ptx":20.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -24413,7 +24520,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":28.9,
-      "ptxMngPacket":23,
+      "ptxMngPacket":28.9,
       "regulatoryDomain":"NA"
     },
     {
@@ -24424,7 +24531,7 @@
       "noise":-86.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":27.94,
-      "ptxMngPacket":23,
+      "ptxMngPacket":27.94,
       "regulatoryDomain":"NA"
     },
     {
@@ -24435,7 +24542,7 @@
       "noise":-86.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":27.94,
-      "ptxMngPacket":23,
+      "ptxMngPacket":27.94,
       "regulatoryDomain":"NA"
     },
     {
@@ -24446,7 +24553,7 @@
       "noise":-86.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":27.94,
-      "ptxMngPacket":23,
+      "ptxMngPacket":27.94,
       "regulatoryDomain":"NA"
     },
     {
@@ -24457,7 +24564,7 @@
       "noise":-86.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":27.94,
-      "ptxMngPacket":23,
+      "ptxMngPacket":27.94,
       "regulatoryDomain":"NA"
     },
     {
@@ -24567,7 +24674,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.75488750216347,
-      "ptxMngPacket":21.75488750216347,
+      "ptxMngPacket":16.75488750216347,
       "regulatoryDomain":"NA"
     },
     {
@@ -24578,7 +24685,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -24589,7 +24696,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -24600,7 +24707,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -24611,7 +24718,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -24622,7 +24729,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":19,
-      "ptxMngPacket":22,
+      "ptxMngPacket":19,
       "regulatoryDomain":"NA"
     },
     {
@@ -24633,7 +24740,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -24644,7 +24751,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -24655,7 +24762,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":26,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -24666,7 +24773,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":26,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -25018,7 +25125,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -25029,7 +25136,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -25040,7 +25147,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -25051,7 +25158,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -25282,29 +25389,29 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":19,
+      "ptxMngPacket":19,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5GL",
+      "model":"PP213X-EX",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":22,
       "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
       "chWidth":2,
-      "channel":44,
-      "freqBand":"5GL",
-      "model":"PP213X-EX",
-      "noise":-86.0,
-      "noiseMngPacket":-98.0,
-      "ptx":22,
-      "ptxMngPacket":26,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
       "channel":60,
       "freqBand":"5GL",
       "model":"PP213X-EX",
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":26,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -25315,7 +25422,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -25326,7 +25433,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -25392,29 +25499,29 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
+      "ptxMngPacket":15.0,
+      "regulatoryDomain":"NA"
+    },
+    {
+      "chWidth":2,
+      "channel":44,
+      "freqBand":"5G",
+      "model":"PP402Z",
+      "noise":-86.0,
+      "noiseMngPacket":-98.0,
+      "ptx":20.0,
       "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
       "chWidth":2,
-      "channel":44,
-      "freqBand":"5G",
-      "model":"PP402Z",
-      "noise":-86.0,
-      "noiseMngPacket":-98.0,
-      "ptx":20.0,
-      "ptxMngPacket":23.0,
-      "regulatoryDomain":"NA"
-    },
-    {
-      "chWidth":2,
       "channel":60,
       "freqBand":"5G",
       "model":"PP402Z",
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -25425,7 +25532,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -25436,7 +25543,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -25447,7 +25554,7 @@
       "noise":-83.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -25458,7 +25565,7 @@
       "noise":-83.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -25469,7 +25576,7 @@
       "noise":-83.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -25480,7 +25587,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"US"
     },
     {
@@ -25491,7 +25598,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -25502,7 +25609,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -25513,7 +25620,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -25524,7 +25631,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -25535,7 +25642,7 @@
       "noise":-83.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -25546,7 +25653,7 @@
       "noise":-83.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -25557,7 +25664,7 @@
       "noise":-83.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"US"
     },
     {
@@ -25568,7 +25675,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -25579,7 +25686,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -25590,7 +25697,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -25601,7 +25708,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -25612,7 +25719,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -25623,7 +25730,7 @@
       "noise":-83.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -25634,7 +25741,7 @@
       "noise":-83.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -25645,7 +25752,7 @@
       "noise":-83.0,
       "noiseMngPacket":-98.0,
       "ptx":19.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":19.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -25656,7 +25763,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":16.5,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -25689,7 +25796,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -25700,7 +25807,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -25733,7 +25840,7 @@
       "noise":-83.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -26063,7 +26170,7 @@
       "noise":-89.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":22.0,
-      "ptxMngPacket":23,
+      "ptxMngPacket":22.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26074,7 +26181,7 @@
       "noise":-89.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":22.0,
-      "ptxMngPacket":23,
+      "ptxMngPacket":22.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26085,7 +26192,7 @@
       "noise":-89.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":22.0,
-      "ptxMngPacket":23,
+      "ptxMngPacket":22.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26096,7 +26203,7 @@
       "noise":-89.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":22.0,
-      "ptxMngPacket":23,
+      "ptxMngPacket":22.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26151,7 +26258,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26162,7 +26269,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"NA"
     },
     {
@@ -26173,7 +26280,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"NA"
     },
     {
@@ -26184,7 +26291,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"NA"
     },
     {
@@ -26195,7 +26302,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"NA"
     },
     {
@@ -26206,7 +26313,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26217,7 +26324,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26228,7 +26335,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26239,7 +26346,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26250,7 +26357,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"US"
     },
     {
@@ -26261,7 +26368,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"US"
     },
     {
@@ -26272,7 +26379,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"US"
     },
     {
@@ -26283,7 +26390,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"US"
     },
     {
@@ -26294,7 +26401,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"US"
     },
     {
@@ -26305,7 +26412,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -26316,7 +26423,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -26327,7 +26434,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -26338,7 +26445,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -26349,7 +26456,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -26360,7 +26467,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"CA"
     },
     {
@@ -26371,7 +26478,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"CA"
     },
     {
@@ -26382,7 +26489,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"CA"
     },
     {
@@ -26393,7 +26500,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"CA"
     },
     {
@@ -26404,7 +26511,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -26415,7 +26522,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -26426,7 +26533,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -26437,7 +26544,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -26448,7 +26555,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":16.5,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -26459,7 +26566,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"JP"
     },
     {
@@ -26470,7 +26577,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"JP"
     },
     {
@@ -26481,7 +26588,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"JP"
     },
     {
@@ -26492,7 +26599,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17,
       "regulatoryDomain":"JP"
     },
     {
@@ -26525,7 +26632,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":18.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -26536,7 +26643,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":18.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -26635,7 +26742,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":20.0,
-      "ptxMngPacket":30,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26690,7 +26797,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":19,
-      "ptxMngPacket":22,
+      "ptxMngPacket":19,
       "regulatoryDomain":"NA"
     },
     {
@@ -26701,7 +26808,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -26712,7 +26819,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -26723,7 +26830,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":26,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -26734,7 +26841,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":26,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -26811,7 +26918,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":15.5,
-      "ptxMngPacket":23,
+      "ptxMngPacket":15.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -26822,7 +26929,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":15.5,
-      "ptxMngPacket":23,
+      "ptxMngPacket":15.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -26833,7 +26940,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":23,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -26844,7 +26951,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":22,
-      "ptxMngPacket":23,
+      "ptxMngPacket":22,
       "regulatoryDomain":"NA"
     },
     {
@@ -26899,7 +27006,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.75488750216347,
-      "ptxMngPacket":21.75488750216347,
+      "ptxMngPacket":16.75488750216347,
       "regulatoryDomain":"NA"
     },
     {
@@ -26910,7 +27017,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26921,7 +27028,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26932,7 +27039,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26943,7 +27050,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -26954,7 +27061,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.25488750216347,
-      "ptxMngPacket":19.25488750216347,
+      "ptxMngPacket":16.25488750216347,
       "regulatoryDomain":"US"
     },
     {
@@ -26965,7 +27072,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -26976,7 +27083,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -26987,7 +27094,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -26998,7 +27105,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -27009,7 +27116,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.25488750216347,
-      "ptxMngPacket":19.25488750216347,
+      "ptxMngPacket":16.25488750216347,
       "regulatoryDomain":"CA"
     },
     {
@@ -27020,7 +27127,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -27031,7 +27138,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -27042,7 +27149,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -27053,7 +27160,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -27064,7 +27171,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.75488750216347,
-      "ptxMngPacket":18.25488750216347,
+      "ptxMngPacket":16.75488750216347,
       "regulatoryDomain":"JP"
     },
     {
@@ -27097,7 +27204,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":18.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -27108,7 +27215,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":18.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -27163,7 +27270,7 @@
       "noise":-105.0,
       "noiseMngPacket":-105.0,
       "ptx":24.0,
-      "ptxMngPacket":21.0,
+      "ptxMngPacket":24.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27229,7 +27336,7 @@
       "noise":-92.0,
       "noiseMngPacket":-96.75488750216347,
       "ptx":16.75488750216347,
-      "ptxMngPacket":21.75488750216347,
+      "ptxMngPacket":16.75488750216347,
       "regulatoryDomain":"NA"
     },
     {
@@ -27240,7 +27347,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27251,7 +27358,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27262,7 +27369,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27273,7 +27380,7 @@
       "noise":-86.0,
       "noiseMngPacket":-98.0,
       "ptx":20.0,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":20.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27284,7 +27391,7 @@
       "noise":-93,
       "noiseMngPacket":-93,
       "ptx":22.0,
-      "ptxMngPacket":23.4,
+      "ptxMngPacket":22.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27295,7 +27402,7 @@
       "noise":-93,
       "noiseMngPacket":-93,
       "ptx":16.6,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":16.6,
       "regulatoryDomain":"NA"
     },
     {
@@ -27306,7 +27413,7 @@
       "noise":-93,
       "noiseMngPacket":-93,
       "ptx":16.6,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":16.6,
       "regulatoryDomain":"NA"
     },
     {
@@ -27317,7 +27424,7 @@
       "noise":-93,
       "noiseMngPacket":-93,
       "ptx":16.6,
-      "ptxMngPacket":23.0,
+      "ptxMngPacket":16.6,
       "regulatoryDomain":"NA"
     },
     {
@@ -27394,7 +27501,7 @@
       "noise":-88.0,
       "noiseMngPacket":-88.0,
       "ptx":24.8,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":24.8,
       "regulatoryDomain":"NA"
     },
     {
@@ -27405,7 +27512,7 @@
       "noise":-90.02059991327963,
       "noiseMngPacket":-84.0,
       "ptx":22.5,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":22.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -27416,7 +27523,7 @@
       "noise":-90.02059991327963,
       "noiseMngPacket":-84.0,
       "ptx":22.5,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":22.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -27427,7 +27534,7 @@
       "noise":-90.02059991327963,
       "noiseMngPacket":-84.0,
       "ptx":22.5,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":22.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -27438,7 +27545,7 @@
       "noise":-90.02059991327963,
       "noiseMngPacket":-84.0,
       "ptx":22.5,
-      "ptxMngPacket":28.3,
+      "ptxMngPacket":22.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -27493,7 +27600,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27504,7 +27611,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27515,7 +27622,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27526,7 +27633,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27537,7 +27644,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27548,7 +27655,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"US"
     },
     {
@@ -27559,7 +27666,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -27570,7 +27677,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -27581,7 +27688,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -27592,7 +27699,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -27603,7 +27710,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -27614,7 +27721,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -27625,7 +27732,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -27636,7 +27743,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -27647,7 +27754,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -27658,7 +27765,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":16.5,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -27691,7 +27798,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":18.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -27702,7 +27809,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":18.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -27812,7 +27919,7 @@
       "noise":-95.0,
       "noiseMngPacket":-80.0,
       "ptx":26,
-      "ptxMngPacket":20,
+      "ptxMngPacket":26,
       "regulatoryDomain":"NA"
     },
     {
@@ -27823,7 +27930,7 @@
       "noise":-95.0,
       "noiseMngPacket":-80.0,
       "ptx":26,
-      "ptxMngPacket":20,
+      "ptxMngPacket":26,
       "regulatoryDomain":"NA"
     },
     {
@@ -27834,7 +27941,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":26,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -27845,7 +27952,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":23,
-      "ptxMngPacket":20,
+      "ptxMngPacket":23,
       "regulatoryDomain":"NA"
     },
     {
@@ -27856,7 +27963,7 @@
       "noise":-95.0,
       "noiseMngPacket":-95.0,
       "ptx":25.5,
-      "ptxMngPacket":23,
+      "ptxMngPacket":25.5,
       "regulatoryDomain":"NA"
     },
     {
@@ -27867,7 +27974,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27878,7 +27985,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27889,7 +27996,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27900,7 +28007,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27911,7 +28018,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"NA"
     },
     {
@@ -27922,7 +28029,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"US"
     },
     {
@@ -27933,7 +28040,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -27944,7 +28051,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -27955,7 +28062,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -27966,7 +28073,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"US"
     },
     {
@@ -27977,7 +28084,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":14.5,
-      "ptxMngPacket":17.5,
+      "ptxMngPacket":14.5,
       "regulatoryDomain":"CA"
     },
     {
@@ -27988,7 +28095,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -27999,7 +28106,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -28010,7 +28117,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -28021,7 +28128,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":16.0,
-      "ptxMngPacket":20.0,
+      "ptxMngPacket":16.0,
       "regulatoryDomain":"CA"
     },
     {
@@ -28032,7 +28139,7 @@
       "noise":-92.0,
       "noiseMngPacket":-95.0,
       "ptx":15.0,
-      "ptxMngPacket":16.5,
+      "ptxMngPacket":15.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -28065,7 +28172,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":18.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -28076,7 +28183,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":17.0,
-      "ptxMngPacket":18.0,
+      "ptxMngPacket":17.0,
       "regulatoryDomain":"JP"
     },
     {
@@ -28098,7 +28205,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -28109,7 +28216,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -28120,7 +28227,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
@@ -28131,7 +28238,7 @@
       "noise":-86.0,
       "noiseMngPacket":-95.0,
       "ptx":24,
-      "ptxMngPacket":23,
+      "ptxMngPacket":24,
       "regulatoryDomain":"NA"
     },
     {
