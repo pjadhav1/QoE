@@ -11341,7 +11341,8 @@
     },
     {
       "allowedChWidth":[
-        2
+        2,
+        3
       ],
       "chanGainCorrection":0.0,
       "configurable":1,
@@ -11350,15 +11351,17 @@
       "dynamicBwAdaptation":1,
       "freqBand":"5GL",
       "jointOptTarget":200000000.0,
-      "maxChWidth":2,
-      "maxMcs":9,
+      "maxChWidth":3,
+      "maxMcs":11,
       "maxNss":2,
       "model":"OWA3111",
-      "phyMode":19
+      "observedPhyRate":false,
+      "phyMode":22
     },
     {
       "allowedChWidth":[
-        2
+        2,
+        3
       ],
       "chanGainCorrection":0.0,
       "configurable":1,
@@ -11367,11 +11370,12 @@
       "dynamicBwAdaptation":1,
       "freqBand":"5GU",
       "jointOptTarget":200000000.0,
-      "maxChWidth":2,
-      "maxMcs":9,
+      "maxChWidth":3,
+      "maxMcs":11,
       "maxNss":4,
       "model":"OWA3111",
-      "phyMode":19
+      "observedPhyRate":false,
+      "phyMode":22
     },
     {
       "allowedChWidth":[
@@ -11386,10 +11390,11 @@
       "freqBand":"2.4G",
       "jointOptTarget":10000000.0,
       "maxChWidth":1,
-      "maxMcs":15,
+      "maxMcs":11,
       "maxNss":2,
       "model":"OWA3111",
-      "phyMode":7
+      "observedPhyRate":false,
+      "phyMode":22
     },
     {
       "allowedChWidth":[
