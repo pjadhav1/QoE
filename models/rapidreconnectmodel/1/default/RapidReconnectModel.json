@@ -11,6 +11,15 @@
     }, {
       "freqBand": "5G",
       "threshold": 5
+    }, {
+      "freqBand": "5GL",
+      "threshold": 5
+    }, {
+      "freqBand": "5GU",
+      "threshold": 5
+    }, {
+      "freqBand": "6G",
+      "threshold": 5
     }
   ]
 

@@ -1,5 +1,5 @@
 {
-  "name" : "DefaultClientCapabilities", 
+  "name" : "DefaultClientCapabilities",
   "capabilities": [{
     "freqBand": "2.4G",
     "maxMcs": 7,
@@ -24,6 +24,12 @@
     "maxNss": 1,
     "maxChWidth": 1,
     "phyMode": 7
+  }, {
+    "freqBand": "6G",
+    "maxMcs": 11,
+    "maxNss": 1,
+    "maxChWidth": 2,
+    "phyMode": 22
   }],
-  "version": "1.0"
+  "version": "1.1"
 }

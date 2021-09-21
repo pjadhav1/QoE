@@ -23,6 +23,11 @@
         "freqBand": "5GU",
         "rapidConnectIntervalSeconds": 60,
         "repeatConnectIntervalSeconds": 60
+    },
+    {
+        "freqBand": "6G",
+        "rapidConnectIntervalSeconds": 60,
+        "repeatConnectIntervalSeconds": 60
     }
   ]
 }
