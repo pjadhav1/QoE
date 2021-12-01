@@ -19107,6 +19107,24 @@
     },
     {
       "allowedChWidth":[
+        2
+      ],
+      "chanGainCorrection":0.0,
+      "configurable":1,
+      "coverageCliRate":100000000.0,
+      "coverageOptTarget":130000000.0,
+      "dynamicBwAdaptation":1,
+      "freqBand":"6G",
+      "jointOptTarget":130000000.0,
+      "maxChWidth":2,
+      "maxMcs":11,
+      "maxNss":2,
+      "model":"defaultAp",
+      "observedPhyRate":false,
+      "phyMode":22
+    },
+    {
+      "allowedChWidth":[
         0,
         1
       ],
